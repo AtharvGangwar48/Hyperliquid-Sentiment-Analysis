@@ -1,0 +1,4790 @@
+{
+   "daily_series" : [
+      {
+         "daily_buy_pct" : 100,
+         "date" : "2023-05-01",
+         "daily_trades" : 3,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "fg_value" : 63,
+         "daily_vol" : 477
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 9,
+         "date" : "2023-12-05",
+         "daily_buy_pct" : 77.78,
+         "daily_vol" : 50005.83,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 11,
+         "daily_pnl" : -205.43,
+         "date" : "2023-12-14",
+         "daily_buy_pct" : 45.45,
+         "daily_vol" : 113203.35,
+         "fg_value" : 72,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 10609.95,
+         "fg_value" : 70,
+         "fg_class" : "Greed",
+         "daily_trades" : 2,
+         "daily_pnl" : -24.63,
+         "daily_buy_pct" : 100,
+         "date" : "2023-12-15"
+      },
+      {
+         "daily_vol" : 15348.77,
+         "fg_value" : 67,
+         "fg_class" : "Greed",
+         "daily_trades" : 3,
+         "daily_pnl" : 0,
+         "date" : "2023-12-16",
+         "daily_buy_pct" : 100
+      },
+      {
+         "daily_pnl" : 304.98,
+         "daily_trades" : 14,
+         "date" : "2023-12-17",
+         "daily_buy_pct" : 21.43,
+         "daily_vol" : 116278.02,
+         "fg_value" : 73,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 2,
+         "daily_buy_pct" : 100,
+         "date" : "2023-12-18",
+         "daily_vol" : 31164.18,
+         "fg_value" : 65,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 91602.41,
+         "fg_value" : 73,
+         "date" : "2023-12-19",
+         "daily_buy_pct" : 33.33,
+         "daily_pnl" : 1000.54,
+         "daily_trades" : 15
+      },
+      {
+         "daily_trades" : 18,
+         "daily_pnl" : 162.73,
+         "daily_buy_pct" : 55.56,
+         "date" : "2023-12-20",
+         "fg_value" : 74,
+         "daily_vol" : 141636.79,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 44.9,
+         "date" : "2023-12-21",
+         "daily_trades" : 49,
+         "daily_pnl" : 537.21,
+         "fg_class" : "Greed",
+         "daily_vol" : 125233.97,
+         "fg_value" : 70
+      },
+      {
+         "daily_trades" : 10,
+         "daily_pnl" : 141.83,
+         "date" : "2023-12-22",
+         "daily_buy_pct" : 80,
+         "fg_value" : 74,
+         "daily_vol" : 88874.28,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 13,
+         "daily_pnl" : 146.94,
+         "daily_buy_pct" : 38.46,
+         "date" : "2023-12-23",
+         "daily_vol" : 78438.25,
+         "fg_value" : 70,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 402954.94,
+         "fg_value" : 71,
+         "fg_class" : "Greed",
+         "daily_pnl" : 1008.62,
+         "daily_trades" : 39,
+         "date" : "2023-12-24",
+         "daily_buy_pct" : 53.85
+      },
+      {
+         "daily_pnl" : -245.08,
+         "daily_trades" : 3,
+         "date" : "2023-12-25",
+         "daily_buy_pct" : 66.67,
+         "daily_vol" : 59948.51,
+         "fg_value" : 73,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 28,
+         "daily_pnl" : -704.89,
+         "daily_buy_pct" : 53.57,
+         "date" : "2023-12-27",
+         "fg_value" : 73,
+         "daily_vol" : 171411.06,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 43.48,
+         "date" : "2023-12-28",
+         "daily_pnl" : -970.73,
+         "daily_trades" : 23,
+         "fg_class" : "Greed",
+         "daily_vol" : 100117.25,
+         "fg_value" : 73
+      },
+      {
+         "daily_vol" : 569559.72,
+         "fg_value" : 65,
+         "fg_class" : "Greed",
+         "daily_trades" : 50,
+         "daily_pnl" : 508.92,
+         "date" : "2023-12-29",
+         "daily_buy_pct" : 62
+      },
+      {
+         "fg_value" : 68,
+         "daily_vol" : 702550.21,
+         "fg_class" : "Greed",
+         "daily_pnl" : 355,
+         "daily_trades" : 52,
+         "daily_buy_pct" : 38.46,
+         "date" : "2023-12-30"
+      },
+      {
+         "daily_pnl" : -129.53,
+         "daily_trades" : 18,
+         "date" : "2024-01-01",
+         "daily_buy_pct" : 55.56,
+         "daily_vol" : 264239.53,
+         "fg_value" : 65,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 121348.74,
+         "fg_value" : 71,
+         "fg_class" : "Greed",
+         "daily_trades" : 17,
+         "daily_pnl" : 783.98,
+         "date" : "2024-01-02",
+         "daily_buy_pct" : 52.94
+      },
+      {
+         "daily_vol" : 394499.36,
+         "fg_value" : 70,
+         "fg_class" : "Greed",
+         "daily_trades" : 67,
+         "daily_pnl" : 866.02,
+         "daily_buy_pct" : 47.76,
+         "date" : "2024-01-03"
+      },
+      {
+         "fg_value" : 68,
+         "daily_vol" : 99792.54,
+         "fg_class" : "Greed",
+         "daily_trades" : 5,
+         "daily_pnl" : -67.6,
+         "daily_buy_pct" : 40,
+         "date" : "2024-01-04"
+      },
+      {
+         "daily_buy_pct" : 46.97,
+         "date" : "2024-01-05",
+         "daily_trades" : 66,
+         "daily_pnl" : 164.14,
+         "fg_class" : "Greed",
+         "fg_value" : 72,
+         "daily_vol" : 1703942.66
+      },
+      {
+         "daily_pnl" : 135.58,
+         "daily_trades" : 22,
+         "date" : "2024-01-06",
+         "daily_buy_pct" : 50,
+         "fg_value" : 70,
+         "daily_vol" : 298521.4,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 1048850.06,
+         "fg_value" : 71,
+         "fg_class" : "Greed",
+         "daily_pnl" : -835.68,
+         "daily_trades" : 97,
+         "date" : "2024-01-07",
+         "daily_buy_pct" : 53.61
+      },
+      {
+         "daily_pnl" : -269.87,
+         "daily_trades" : 128,
+         "daily_buy_pct" : 31.25,
+         "date" : "2024-01-08",
+         "fg_value" : 71,
+         "daily_vol" : 1522452.43,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_value" : 76,
+         "daily_vol" : 870051.97,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 70,
+         "daily_pnl" : -826.35,
+         "daily_buy_pct" : 40,
+         "date" : "2024-01-09"
+      },
+      {
+         "daily_vol" : 2057479.48,
+         "fg_value" : 73,
+         "fg_class" : "Greed",
+         "daily_trades" : 193,
+         "daily_pnl" : -1517.09,
+         "date" : "2024-01-10",
+         "daily_buy_pct" : 47.67
+      },
+      {
+         "daily_vol" : 305314.1,
+         "fg_value" : 76,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 21,
+         "daily_pnl" : -164.09,
+         "daily_buy_pct" : 61.9,
+         "date" : "2024-01-11"
+      },
+      {
+         "daily_pnl" : -1925.52,
+         "daily_trades" : 7,
+         "daily_buy_pct" : 71.43,
+         "date" : "2024-01-12",
+         "daily_vol" : 200082.27,
+         "fg_value" : 71,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_value" : 52,
+         "daily_vol" : 50636.1,
+         "fg_class" : "Neutral",
+         "daily_trades" : 14,
+         "daily_pnl" : 152.85,
+         "date" : "2024-01-15",
+         "daily_buy_pct" : 35.71
+      },
+      {
+         "daily_vol" : 116427.33,
+         "fg_value" : 64,
+         "fg_class" : "Greed",
+         "daily_trades" : 9,
+         "daily_pnl" : -2299.17,
+         "date" : "2024-01-16",
+         "daily_buy_pct" : 44.44
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 800831.03,
+         "fg_value" : 60,
+         "daily_buy_pct" : 58.49,
+         "date" : "2024-01-17",
+         "daily_pnl" : 813.27,
+         "daily_trades" : 53
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 63,
+         "daily_vol" : 424631.53,
+         "daily_buy_pct" : 39.13,
+         "date" : "2024-01-18",
+         "daily_pnl" : 68.93,
+         "daily_trades" : 46
+      },
+      {
+         "daily_trades" : 48,
+         "daily_pnl" : -385.42,
+         "daily_buy_pct" : 64.58,
+         "date" : "2024-01-19",
+         "fg_value" : 51,
+         "daily_vol" : 428428.97,
+         "fg_class" : "Neutral"
+      },
+      {
+         "date" : "2024-01-20",
+         "daily_buy_pct" : 56.6,
+         "daily_trades" : 106,
+         "daily_pnl" : -146.57,
+         "fg_class" : "Neutral",
+         "daily_vol" : 1070090.51,
+         "fg_value" : 52
+      },
+      {
+         "daily_vol" : 103129.74,
+         "fg_value" : 56,
+         "fg_class" : "Greed",
+         "daily_pnl" : 266.58,
+         "daily_trades" : 11,
+         "daily_buy_pct" : 27.27,
+         "date" : "2024-01-21"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 337878.99,
+         "fg_value" : 55,
+         "daily_buy_pct" : 60,
+         "date" : "2024-01-22",
+         "daily_trades" : 85,
+         "daily_pnl" : 1375.64
+      },
+      {
+         "fg_value" : 50,
+         "daily_vol" : 414518.93,
+         "fg_class" : "Neutral",
+         "daily_pnl" : -369.24,
+         "daily_trades" : 45,
+         "date" : "2024-01-23",
+         "daily_buy_pct" : 73.33
+      },
+      {
+         "fg_value" : 48,
+         "daily_vol" : 965084.59,
+         "fg_class" : "Neutral",
+         "daily_trades" : 68,
+         "daily_pnl" : -2808.35,
+         "date" : "2024-01-24",
+         "daily_buy_pct" : 39.71
+      },
+      {
+         "daily_pnl" : -3093.63,
+         "daily_trades" : 6,
+         "daily_buy_pct" : 0,
+         "date" : "2024-01-25",
+         "fg_value" : 52,
+         "daily_vol" : 66566.13,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_vol" : 11773.21,
+         "fg_value" : 49,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 90.2,
+         "daily_trades" : 5,
+         "daily_buy_pct" : 80,
+         "date" : "2024-01-26"
+      },
+      {
+         "date" : "2024-01-28",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : -2478.07,
+         "daily_trades" : 11,
+         "fg_class" : "Neutral",
+         "daily_vol" : 18109.03,
+         "fg_value" : 54
+      },
+      {
+         "daily_buy_pct" : 28.38,
+         "date" : "2024-01-29",
+         "daily_pnl" : 486.56,
+         "daily_trades" : 74,
+         "fg_class" : "Greed",
+         "daily_vol" : 414208.18,
+         "fg_value" : 55
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 401011.38,
+         "fg_value" : 61,
+         "daily_buy_pct" : 57.14,
+         "date" : "2024-01-30",
+         "daily_pnl" : -173.65,
+         "daily_trades" : 49
+      },
+      {
+         "daily_pnl" : -799.84,
+         "daily_trades" : 859,
+         "date" : "2024-01-31",
+         "daily_buy_pct" : 54.71,
+         "fg_value" : 60,
+         "daily_vol" : 6305647.13,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-02-01",
+         "daily_buy_pct" : 100,
+         "daily_pnl" : 0,
+         "daily_trades" : 6,
+         "fg_class" : "Greed",
+         "fg_value" : 63,
+         "daily_vol" : 2008.18
+      },
+      {
+         "daily_vol" : 474278.43,
+         "fg_value" : 63,
+         "fg_class" : "Greed",
+         "daily_pnl" : 456.42,
+         "daily_trades" : 42,
+         "daily_buy_pct" : 45.24,
+         "date" : "2024-02-02"
+      },
+      {
+         "daily_pnl" : 223.31,
+         "daily_trades" : 56,
+         "daily_buy_pct" : 32.14,
+         "date" : "2024-02-03",
+         "daily_vol" : 603820,
+         "fg_value" : 60,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-02-04",
+         "daily_buy_pct" : 54.29,
+         "daily_pnl" : 47.62,
+         "daily_trades" : 35,
+         "fg_class" : "Greed",
+         "fg_value" : 60,
+         "daily_vol" : 203187.53
+      },
+      {
+         "date" : "2024-02-05",
+         "daily_buy_pct" : 45.83,
+         "daily_pnl" : -33.45,
+         "daily_trades" : 72,
+         "fg_class" : "Greed",
+         "fg_value" : 60,
+         "daily_vol" : 770198.26
+      },
+      {
+         "fg_value" : 64,
+         "daily_vol" : 8047153.41,
+         "fg_class" : "Greed",
+         "daily_pnl" : -215.62,
+         "daily_trades" : 1088,
+         "daily_buy_pct" : 47.61,
+         "date" : "2024-02-06"
+      },
+      {
+         "daily_pnl" : 241.24,
+         "daily_trades" : 15,
+         "daily_buy_pct" : 46.67,
+         "date" : "2024-02-07",
+         "fg_value" : 62,
+         "daily_vol" : 6758.73,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_value" : 66,
+         "daily_vol" : 26051.12,
+         "fg_class" : "Greed",
+         "daily_pnl" : 770.76,
+         "daily_trades" : 10,
+         "daily_buy_pct" : 20,
+         "date" : "2024-02-08"
+      },
+      {
+         "fg_value" : 71,
+         "daily_vol" : 212311.82,
+         "fg_class" : "Greed",
+         "daily_trades" : 34,
+         "daily_pnl" : 983.44,
+         "daily_buy_pct" : 67.65,
+         "date" : "2024-02-11"
+      },
+      {
+         "daily_trades" : 16,
+         "daily_pnl" : 913.88,
+         "daily_buy_pct" : 68.75,
+         "date" : "2024-02-12",
+         "daily_vol" : 227247.7,
+         "fg_value" : 70,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-02-13",
+         "daily_trades" : 14,
+         "daily_pnl" : 559.44,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1999.99,
+         "fg_value" : 79
+      },
+      {
+         "daily_buy_pct" : 30.63,
+         "date" : "2024-02-14",
+         "daily_trades" : 111,
+         "daily_pnl" : 3830.6,
+         "fg_class" : "Greed",
+         "daily_vol" : 320839.88,
+         "fg_value" : 74
+      },
+      {
+         "daily_vol" : 185188.04,
+         "fg_value" : 72,
+         "fg_class" : "Greed",
+         "daily_trades" : 63,
+         "daily_pnl" : 1840.8,
+         "date" : "2024-02-15",
+         "daily_buy_pct" : 82.54
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 72,
+         "daily_vol" : 564896.51,
+         "daily_buy_pct" : 63.19,
+         "date" : "2024-02-16",
+         "daily_trades" : 182,
+         "daily_pnl" : 5491.77
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 406118.07,
+         "fg_value" : 76,
+         "date" : "2024-02-17",
+         "daily_buy_pct" : 53.19,
+         "daily_pnl" : 1929.64,
+         "daily_trades" : 94
+      },
+      {
+         "fg_value" : 72,
+         "daily_vol" : 157048.17,
+         "fg_class" : "Greed",
+         "daily_pnl" : 477.62,
+         "daily_trades" : 97,
+         "daily_buy_pct" : 39.18,
+         "date" : "2024-02-18"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 286377.2,
+         "daily_buy_pct" : 40.59,
+         "date" : "2024-02-19",
+         "daily_trades" : 101,
+         "daily_pnl" : 4317.77
+      },
+      {
+         "daily_pnl" : 3263.63,
+         "daily_trades" : 39,
+         "daily_buy_pct" : 33.33,
+         "date" : "2024-02-20",
+         "fg_value" : 72,
+         "daily_vol" : 119419.72,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-02-21",
+         "daily_buy_pct" : 31.82,
+         "daily_pnl" : 1858.8,
+         "daily_trades" : 22,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 108047.52,
+         "fg_value" : 78
+      },
+      {
+         "daily_pnl" : 3894.11,
+         "daily_trades" : 88,
+         "daily_buy_pct" : 39.77,
+         "date" : "2024-02-22",
+         "fg_value" : 74,
+         "daily_vol" : 373033.87,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 111106.14,
+         "fg_value" : 76,
+         "date" : "2024-02-23",
+         "daily_buy_pct" : 91.61,
+         "daily_trades" : 143,
+         "daily_pnl" : 1418.55
+      },
+      {
+         "daily_trades" : 5,
+         "daily_pnl" : -30.77,
+         "date" : "2024-02-25",
+         "daily_buy_pct" : 40,
+         "daily_vol" : 4480.13,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 69.23,
+         "date" : "2024-02-26",
+         "daily_pnl" : 4416.85,
+         "daily_trades" : 39,
+         "fg_class" : "Greed",
+         "fg_value" : 72,
+         "daily_vol" : 192187.14
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 209362.3,
+         "fg_value" : 79,
+         "daily_buy_pct" : 52.38,
+         "date" : "2024-02-27",
+         "daily_trades" : 63,
+         "daily_pnl" : 888.51
+      },
+      {
+         "fg_value" : 82,
+         "daily_vol" : 171107.13,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 45,
+         "daily_pnl" : 2503.75,
+         "daily_buy_pct" : 68.89,
+         "date" : "2024-02-28"
+      },
+      {
+         "daily_buy_pct" : 51.72,
+         "date" : "2024-02-29",
+         "daily_pnl" : 9814,
+         "daily_trades" : 116,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 80,
+         "daily_vol" : 395666.73
+      },
+      {
+         "fg_value" : 80,
+         "daily_vol" : 472974.7,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 8244.24,
+         "daily_trades" : 137,
+         "daily_buy_pct" : 27.01,
+         "date" : "2024-03-01"
+      },
+      {
+         "date" : "2024-03-02",
+         "daily_buy_pct" : 90.32,
+         "daily_trades" : 31,
+         "daily_pnl" : 230.9,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 63197.56,
+         "fg_value" : 80
+      },
+      {
+         "date" : "2024-03-03",
+         "daily_buy_pct" : 45.57,
+         "daily_pnl" : 8361.09,
+         "daily_trades" : 79,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 83,
+         "daily_vol" : 390745.68
+      },
+      {
+         "fg_value" : 82,
+         "daily_vol" : 1577996.87,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 27799.78,
+         "daily_trades" : 300,
+         "date" : "2024-03-04",
+         "daily_buy_pct" : 53.67
+      },
+      {
+         "fg_value" : 90,
+         "daily_vol" : 841810.32,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 180,
+         "daily_pnl" : 19791.03,
+         "daily_buy_pct" : 30.56,
+         "date" : "2024-03-05"
+      },
+      {
+         "daily_buy_pct" : 59.76,
+         "date" : "2024-03-06",
+         "daily_trades" : 82,
+         "daily_pnl" : 6814.83,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 327218.02
+      },
+      {
+         "daily_pnl" : 4271.89,
+         "daily_trades" : 67,
+         "date" : "2024-03-08",
+         "daily_buy_pct" : 28.36,
+         "fg_value" : 81,
+         "daily_vol" : 183583.18,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 658178.75,
+         "fg_value" : 84,
+         "daily_buy_pct" : 70.94,
+         "date" : "2024-03-09",
+         "daily_pnl" : 9949.5,
+         "daily_trades" : 117
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 79,
+         "daily_vol" : 219973.85,
+         "date" : "2024-03-10",
+         "daily_buy_pct" : 90.48,
+         "daily_trades" : 42,
+         "daily_pnl" : 2482.93
+      },
+      {
+         "daily_buy_pct" : 28.57,
+         "date" : "2024-03-11",
+         "daily_trades" : 42,
+         "daily_pnl" : 3588.18,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 82,
+         "daily_vol" : 176519.45
+      },
+      {
+         "daily_buy_pct" : 12.5,
+         "date" : "2024-03-12",
+         "daily_pnl" : 3039.17,
+         "daily_trades" : 8,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 81,
+         "daily_vol" : 103040.85
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 81,
+         "daily_vol" : 6000.8,
+         "daily_buy_pct" : 100,
+         "date" : "2024-03-13",
+         "daily_pnl" : 0,
+         "daily_trades" : 7
+      },
+      {
+         "fg_value" : 88,
+         "daily_vol" : 205933.18,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 18,
+         "daily_pnl" : 3465.87,
+         "daily_buy_pct" : 11.11,
+         "date" : "2024-03-14"
+      },
+      {
+         "daily_trades" : 62,
+         "daily_pnl" : 6236.51,
+         "daily_buy_pct" : 41.94,
+         "date" : "2024-03-15",
+         "daily_vol" : 351894.41,
+         "fg_value" : 83,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 37223.66,
+         "fg_value" : 81,
+         "date" : "2024-03-16",
+         "daily_buy_pct" : 62.5,
+         "daily_trades" : 8,
+         "daily_pnl" : 228.58
+      },
+      {
+         "daily_pnl" : 503.29,
+         "daily_trades" : 23,
+         "daily_buy_pct" : 78.26,
+         "date" : "2024-03-17",
+         "daily_vol" : 99506.95,
+         "fg_value" : 79,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 19,
+         "daily_pnl" : 1456.96,
+         "date" : "2024-03-18",
+         "daily_buy_pct" : 68.42,
+         "fg_value" : 77,
+         "daily_vol" : 90458.08,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_pnl" : 668.8,
+         "daily_trades" : 24,
+         "date" : "2024-03-19",
+         "daily_buy_pct" : 70.83,
+         "daily_vol" : 219884.84,
+         "fg_value" : 79,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 215705.85,
+         "date" : "2024-03-20",
+         "daily_buy_pct" : 42.03,
+         "daily_pnl" : 6423.13,
+         "daily_trades" : 69
+      },
+      {
+         "daily_vol" : 117895.57,
+         "fg_value" : 78,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 2335.51,
+         "daily_trades" : 28,
+         "date" : "2024-03-21",
+         "daily_buy_pct" : 92.86
+      },
+      {
+         "fg_value" : 74,
+         "daily_vol" : 92592.21,
+         "fg_class" : "Greed",
+         "daily_trades" : 19,
+         "daily_pnl" : 1297.02,
+         "daily_buy_pct" : 78.95,
+         "date" : "2024-03-24"
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-03-25",
+         "daily_pnl" : 1302.92,
+         "daily_trades" : 7,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 57116.32,
+         "fg_value" : 75
+      },
+      {
+         "fg_value" : 81,
+         "daily_vol" : 198565.19,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 3215.91,
+         "daily_trades" : 118,
+         "daily_buy_pct" : 6.78,
+         "date" : "2024-03-26"
+      },
+      {
+         "daily_pnl" : 150.41,
+         "daily_trades" : 38,
+         "date" : "2024-03-27",
+         "daily_buy_pct" : 50,
+         "daily_vol" : 99864.79,
+         "fg_value" : 83,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 13,
+         "daily_pnl" : 227.85,
+         "date" : "2024-03-28",
+         "daily_buy_pct" : 92.31,
+         "fg_value" : 80,
+         "daily_vol" : 35323.72,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_value" : 79,
+         "daily_vol" : 86914.37,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 15,
+         "daily_pnl" : 883.1,
+         "date" : "2024-03-29",
+         "daily_buy_pct" : 60
+      },
+      {
+         "date" : "2024-03-30",
+         "daily_buy_pct" : 2.22,
+         "daily_pnl" : 1100.58,
+         "daily_trades" : 45,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 101103.92,
+         "fg_value" : 75
+      },
+      {
+         "daily_vol" : 39912.96,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 912.79,
+         "daily_trades" : 13,
+         "daily_buy_pct" : 0,
+         "date" : "2024-03-31"
+      },
+      {
+         "daily_pnl" : 2507.96,
+         "daily_trades" : 77,
+         "daily_buy_pct" : 41.56,
+         "date" : "2024-04-01",
+         "daily_vol" : 339470.47,
+         "fg_value" : 79,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 79,
+         "daily_vol" : 239664.51,
+         "daily_buy_pct" : 24.39,
+         "date" : "2024-04-02",
+         "daily_pnl" : 883.76,
+         "daily_trades" : 41
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 16887.57,
+         "fg_value" : 71,
+         "date" : "2024-04-03",
+         "daily_buy_pct" : 75,
+         "daily_trades" : 4,
+         "daily_pnl" : 126.79
+      },
+      {
+         "date" : "2024-04-04",
+         "daily_buy_pct" : 0,
+         "daily_trades" : 32,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "daily_vol" : 95987.73,
+         "fg_value" : 70
+      },
+      {
+         "daily_vol" : 503791.8,
+         "fg_value" : 79,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 10706.48,
+         "daily_trades" : 100,
+         "daily_buy_pct" : 17,
+         "date" : "2024-04-05"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 68223.67,
+         "daily_buy_pct" : 0,
+         "date" : "2024-04-06",
+         "daily_trades" : 16,
+         "daily_pnl" : 236.34
+      },
+      {
+         "daily_vol" : 49988.14,
+         "fg_value" : 78,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 0,
+         "daily_trades" : 23,
+         "daily_buy_pct" : 0,
+         "date" : "2024-04-07"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 211940.64,
+         "fg_value" : 76,
+         "date" : "2024-04-08",
+         "daily_buy_pct" : 3.33,
+         "daily_trades" : 30,
+         "daily_pnl" : 1218.43
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 80,
+         "daily_vol" : 57063.84,
+         "date" : "2024-04-09",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : 0,
+         "daily_trades" : 3
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 78,
+         "daily_vol" : 351735.97,
+         "daily_buy_pct" : 97.56,
+         "date" : "2024-04-10",
+         "daily_trades" : 41,
+         "daily_pnl" : 5207.44
+      },
+      {
+         "daily_pnl" : 389.74,
+         "daily_trades" : 16,
+         "daily_buy_pct" : 87.5,
+         "date" : "2024-04-11",
+         "daily_vol" : 76400.96,
+         "fg_value" : 76,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_value" : 79,
+         "daily_vol" : 442088.59,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 129,
+         "daily_pnl" : -592.65,
+         "date" : "2024-04-12",
+         "daily_buy_pct" : 33.33
+      },
+      {
+         "fg_value" : 72,
+         "daily_vol" : 486411.25,
+         "fg_class" : "Greed",
+         "daily_pnl" : 6621.45,
+         "daily_trades" : 89,
+         "daily_buy_pct" : 51.69,
+         "date" : "2024-04-13"
+      },
+      {
+         "daily_buy_pct" : 42.99,
+         "date" : "2024-04-14",
+         "daily_trades" : 107,
+         "daily_pnl" : -36104.01,
+         "fg_class" : "Greed",
+         "daily_vol" : 659162.17,
+         "fg_value" : 72
+      },
+      {
+         "fg_value" : 74,
+         "daily_vol" : 291111.19,
+         "fg_class" : "Greed",
+         "daily_pnl" : 3774.09,
+         "daily_trades" : 41,
+         "daily_buy_pct" : 43.9,
+         "date" : "2024-04-15"
+      },
+      {
+         "daily_pnl" : 2467.7,
+         "daily_trades" : 47,
+         "daily_buy_pct" : 65.96,
+         "date" : "2024-04-16",
+         "fg_value" : 65,
+         "daily_vol" : 181907.17,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-04-17",
+         "daily_buy_pct" : 92.86,
+         "daily_trades" : 14,
+         "daily_pnl" : 2441.47,
+         "fg_class" : "Greed",
+         "fg_value" : 67,
+         "daily_vol" : 97562.99
+      },
+      {
+         "date" : "2024-04-19",
+         "daily_buy_pct" : 14.29,
+         "daily_trades" : 35,
+         "daily_pnl" : 1946.45,
+         "fg_class" : "Greed",
+         "daily_vol" : 337257.92,
+         "fg_value" : 66
+      },
+      {
+         "date" : "2024-04-20",
+         "daily_buy_pct" : 90.91,
+         "daily_trades" : 22,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "daily_vol" : 60733.24,
+         "fg_value" : 66
+      },
+      {
+         "date" : "2024-04-22",
+         "daily_buy_pct" : 0,
+         "daily_trades" : 9,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 47993.61
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 233054.9,
+         "fg_value" : 71,
+         "date" : "2024-04-23",
+         "daily_buy_pct" : 56.06,
+         "daily_pnl" : 1119.54,
+         "daily_trades" : 66
+      },
+      {
+         "daily_pnl" : 279.19,
+         "daily_trades" : 20,
+         "daily_buy_pct" : 65,
+         "date" : "2024-04-24",
+         "fg_value" : 72,
+         "daily_vol" : 141275.24,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 120241.01,
+         "fg_value" : 72,
+         "fg_class" : "Greed",
+         "daily_trades" : 74,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 100,
+         "date" : "2024-04-25"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 70,
+         "daily_vol" : 4988.29,
+         "date" : "2024-04-26",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : 0,
+         "daily_trades" : 3
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 154264.47,
+         "fg_value" : 67,
+         "date" : "2024-04-27",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : 4281.49,
+         "daily_trades" : 27
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 58,
+         "date" : "2024-04-28",
+         "daily_buy_pct" : 0,
+         "daily_vol" : 43985.6,
+         "fg_value" : 65,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-04-29",
+         "daily_buy_pct" : 53.33,
+         "daily_trades" : 45,
+         "daily_pnl" : 526.93,
+         "fg_class" : "Greed",
+         "fg_value" : 67,
+         "daily_vol" : 108699.01
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 24,
+         "daily_buy_pct" : 100,
+         "date" : "2024-04-30",
+         "daily_vol" : 125018.75,
+         "fg_value" : 67,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 54,
+         "daily_vol" : 87025.45,
+         "date" : "2024-05-01",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 14,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_value" : 48,
+         "daily_vol" : 282682.65,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 5306.02,
+         "daily_trades" : 36,
+         "daily_buy_pct" : 8.33,
+         "date" : "2024-05-03"
+      },
+      {
+         "fg_value" : 67,
+         "daily_vol" : 58998.75,
+         "fg_class" : "Greed",
+         "daily_pnl" : 0,
+         "daily_trades" : 9,
+         "daily_buy_pct" : 0,
+         "date" : "2024-05-04"
+      },
+      {
+         "fg_value" : 69,
+         "daily_vol" : 24068.35,
+         "fg_class" : "Greed",
+         "daily_trades" : 6,
+         "daily_pnl" : 0.92,
+         "date" : "2024-05-05",
+         "daily_buy_pct" : 16.67
+      },
+      {
+         "date" : "2024-05-06",
+         "daily_buy_pct" : 88.89,
+         "daily_trades" : 9,
+         "daily_pnl" : 968.59,
+         "fg_class" : "Greed",
+         "daily_vol" : 206016.43,
+         "fg_value" : 71
+      },
+      {
+         "daily_trades" : 18,
+         "daily_pnl" : 883.54,
+         "date" : "2024-05-07",
+         "daily_buy_pct" : 33.33,
+         "fg_value" : 68,
+         "daily_vol" : 108717.58,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 65973.57,
+         "fg_value" : 64,
+         "daily_buy_pct" : 92.31,
+         "date" : "2024-05-08",
+         "daily_pnl" : 1.57,
+         "daily_trades" : 13
+      },
+      {
+         "daily_buy_pct" : 32.14,
+         "date" : "2024-05-09",
+         "daily_trades" : 28,
+         "daily_pnl" : 1147.6,
+         "fg_class" : "Greed",
+         "daily_vol" : 221966.12,
+         "fg_value" : 55
+      },
+      {
+         "fg_value" : 66,
+         "daily_vol" : 156882,
+         "fg_class" : "Greed",
+         "daily_trades" : 22,
+         "daily_pnl" : 2101.74,
+         "daily_buy_pct" : 72.73,
+         "date" : "2024-05-10"
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 53,
+         "daily_vol" : 63248.95,
+         "daily_buy_pct" : 0,
+         "date" : "2024-05-11",
+         "daily_pnl" : 251.6,
+         "daily_trades" : 9
+      },
+      {
+         "daily_vol" : 55179.56,
+         "fg_value" : 56,
+         "fg_class" : "Greed",
+         "daily_pnl" : 0,
+         "daily_trades" : 23,
+         "daily_buy_pct" : 73.91,
+         "date" : "2024-05-12"
+      },
+      {
+         "daily_trades" : 28,
+         "daily_pnl" : 2136.85,
+         "date" : "2024-05-13",
+         "daily_buy_pct" : 17.86,
+         "daily_vol" : 193118.9,
+         "fg_value" : 57,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 145853.4,
+         "fg_value" : 66,
+         "daily_buy_pct" : 100,
+         "date" : "2024-05-14",
+         "daily_pnl" : 1150.52,
+         "daily_trades" : 23
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 234922.57,
+         "fg_value" : 64,
+         "daily_buy_pct" : 30.56,
+         "date" : "2024-05-15",
+         "daily_pnl" : 948.97,
+         "daily_trades" : 36
+      },
+      {
+         "fg_value" : 70,
+         "daily_vol" : 162620.96,
+         "fg_class" : "Greed",
+         "daily_pnl" : 214.59,
+         "daily_trades" : 27,
+         "daily_buy_pct" : 51.85,
+         "date" : "2024-05-16"
+      },
+      {
+         "daily_trades" : 25,
+         "daily_pnl" : 3522.39,
+         "date" : "2024-05-18",
+         "daily_buy_pct" : 28,
+         "daily_vol" : 126303.14,
+         "fg_value" : 73,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-05-19",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 8,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "daily_vol" : 29998.09,
+         "fg_value" : 72
+      },
+      {
+         "daily_pnl" : -74.82,
+         "daily_trades" : 10,
+         "daily_buy_pct" : 70,
+         "date" : "2024-05-20",
+         "daily_vol" : 38124.75,
+         "fg_value" : 70,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 23.2,
+         "date" : "2024-05-21",
+         "daily_trades" : 125,
+         "daily_pnl" : 7289.4,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1100948.59,
+         "fg_value" : 76
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 76,
+         "daily_vol" : 44995.29,
+         "daily_buy_pct" : 0,
+         "date" : "2024-05-22",
+         "daily_trades" : 6,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_value" : 76,
+         "daily_vol" : 401850.6,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 325,
+         "daily_pnl" : 413.35,
+         "daily_buy_pct" : 58.15,
+         "date" : "2024-05-23"
+      },
+      {
+         "fg_value" : 74,
+         "daily_vol" : 50811.9,
+         "fg_class" : "Greed",
+         "daily_trades" : 2,
+         "daily_pnl" : 821.95,
+         "date" : "2024-05-24",
+         "daily_buy_pct" : 0
+      },
+      {
+         "daily_trades" : 16,
+         "daily_pnl" : 14.13,
+         "daily_buy_pct" : 43.75,
+         "date" : "2024-05-25",
+         "daily_vol" : 29991.13,
+         "fg_value" : 76,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 16,
+         "daily_pnl" : 778.68,
+         "date" : "2024-05-26",
+         "daily_buy_pct" : 12.5,
+         "daily_vol" : 53976.67,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "date" : "2024-05-27",
+         "daily_buy_pct" : 37.05,
+         "daily_trades" : 251,
+         "daily_pnl" : 1129.36,
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 151115.72
+      },
+      {
+         "daily_trades" : 164,
+         "daily_pnl" : 277.79,
+         "date" : "2024-05-29",
+         "daily_buy_pct" : 40.85,
+         "daily_vol" : 84268.76,
+         "fg_value" : 72,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-05-30",
+         "daily_buy_pct" : 71.43,
+         "daily_pnl" : 20.95,
+         "daily_trades" : 7,
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 2838.09
+      },
+      {
+         "daily_pnl" : 25.36,
+         "daily_trades" : 13,
+         "daily_buy_pct" : 30.77,
+         "date" : "2024-05-31",
+         "fg_value" : 73,
+         "daily_vol" : 3636.14,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 12834.62,
+         "fg_value" : 72,
+         "date" : "2024-06-01",
+         "daily_buy_pct" : 36,
+         "daily_trades" : 25,
+         "daily_pnl" : 91.51
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 29464.51,
+         "fg_value" : 73,
+         "date" : "2024-06-02",
+         "daily_buy_pct" : 36.56,
+         "daily_trades" : 93,
+         "daily_pnl" : 192.91
+      },
+      {
+         "daily_pnl" : 562.81,
+         "daily_trades" : 70,
+         "daily_buy_pct" : 62.86,
+         "date" : "2024-06-03",
+         "fg_value" : 73,
+         "daily_vol" : 21466.86,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 24243.41,
+         "date" : "2024-06-04",
+         "daily_buy_pct" : 47.17,
+         "daily_trades" : 53,
+         "daily_pnl" : 52.21
+      },
+      {
+         "daily_trades" : 54,
+         "daily_pnl" : 56.06,
+         "daily_buy_pct" : 31.48,
+         "date" : "2024-06-05",
+         "fg_value" : 75,
+         "daily_vol" : 25350.77,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_pnl" : 274.17,
+         "daily_trades" : 234,
+         "date" : "2024-06-06",
+         "daily_buy_pct" : 43.59,
+         "fg_value" : 78,
+         "daily_vol" : 137557.76,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 77,
+         "daily_vol" : 1098588.76,
+         "daily_buy_pct" : 41.14,
+         "date" : "2024-06-07",
+         "daily_trades" : 440,
+         "daily_pnl" : 8902.47
+      },
+      {
+         "daily_buy_pct" : 72.41,
+         "date" : "2024-06-08",
+         "daily_trades" : 29,
+         "daily_pnl" : 129.14,
+         "fg_class" : "Greed",
+         "fg_value" : 72,
+         "daily_vol" : 97351.88
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 22410.22,
+         "date" : "2024-06-09",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 17,
+         "daily_pnl" : 0
+      },
+      {
+         "daily_vol" : 46587.93,
+         "fg_value" : 72,
+         "fg_class" : "Greed",
+         "daily_pnl" : 31.27,
+         "daily_trades" : 53,
+         "daily_buy_pct" : 41.51,
+         "date" : "2024-06-10"
+      },
+      {
+         "daily_trades" : 123,
+         "daily_pnl" : 4320.63,
+         "date" : "2024-06-11",
+         "daily_buy_pct" : 92.68,
+         "daily_vol" : 373279.92,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_pnl" : -21886.53,
+         "daily_trades" : 254,
+         "date" : "2024-06-12",
+         "daily_buy_pct" : 45.28,
+         "daily_vol" : 193407.96,
+         "fg_value" : 72,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 79,
+         "daily_pnl" : 6632.76,
+         "date" : "2024-06-13",
+         "daily_buy_pct" : 96.2,
+         "fg_value" : 70,
+         "daily_vol" : 132577.22,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-06-14",
+         "daily_buy_pct" : 100,
+         "daily_pnl" : 10258.59,
+         "daily_trades" : 31,
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 139868.66
+      },
+      {
+         "daily_trades" : 78,
+         "daily_pnl" : 3369.96,
+         "date" : "2024-06-15",
+         "daily_buy_pct" : 11.54,
+         "fg_value" : 74,
+         "daily_vol" : 718350.25,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 11,
+         "daily_buy_pct" : 0,
+         "date" : "2024-06-16",
+         "daily_vol" : 25235.08,
+         "fg_value" : 71,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-06-17",
+         "daily_buy_pct" : 84.21,
+         "daily_trades" : 38,
+         "daily_pnl" : 10599.5,
+         "fg_class" : "Greed",
+         "fg_value" : 71,
+         "daily_vol" : 368380.12
+      },
+      {
+         "daily_pnl" : 282.58,
+         "daily_trades" : 25,
+         "date" : "2024-06-18",
+         "daily_buy_pct" : 84,
+         "daily_vol" : 263314.79,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 61,
+         "daily_pnl" : 4887.66,
+         "date" : "2024-06-19",
+         "daily_buy_pct" : 4.92,
+         "fg_value" : 64,
+         "daily_vol" : 417071.12,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 39,
+         "daily_pnl" : 57478.46,
+         "daily_buy_pct" : 0,
+         "date" : "2024-06-20",
+         "daily_vol" : 207990.8,
+         "fg_value" : 60,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 80,
+         "daily_pnl" : 773.56,
+         "date" : "2024-06-21",
+         "daily_buy_pct" : 85,
+         "daily_vol" : 176264.49,
+         "fg_value" : 63,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 169594.27,
+         "fg_value" : 53,
+         "daily_buy_pct" : 16.67,
+         "date" : "2024-06-22",
+         "daily_trades" : 24,
+         "daily_pnl" : 756.88
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-06-23",
+         "daily_pnl" : 0,
+         "daily_trades" : 5,
+         "fg_class" : "Greed",
+         "fg_value" : 55,
+         "daily_vol" : 1792.12
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 31,
+         "date" : "2024-06-24",
+         "daily_buy_pct" : 80.65,
+         "fg_value" : 51,
+         "daily_vol" : 403002.8,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_buy_pct" : 22.45,
+         "date" : "2024-06-25",
+         "daily_pnl" : 4869.35,
+         "daily_trades" : 49,
+         "fg_class" : "Fear",
+         "fg_value" : 30,
+         "daily_vol" : 103099.08
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 365190.66,
+         "fg_value" : 46,
+         "date" : "2024-06-26",
+         "daily_buy_pct" : 56.94,
+         "daily_pnl" : 4197.73,
+         "daily_trades" : 72
+      },
+      {
+         "date" : "2024-06-27",
+         "daily_buy_pct" : 40,
+         "daily_trades" : 30,
+         "daily_pnl" : 0,
+         "fg_class" : "Fear",
+         "fg_value" : 40,
+         "daily_vol" : 130486.95
+      },
+      {
+         "fg_value" : 30,
+         "daily_vol" : 280095.11,
+         "fg_class" : "Fear",
+         "daily_trades" : 75,
+         "daily_pnl" : 6150.33,
+         "date" : "2024-06-29",
+         "daily_buy_pct" : 46.67
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 30520.69,
+         "fg_value" : 47,
+         "daily_buy_pct" : 35.71,
+         "date" : "2024-06-30",
+         "daily_pnl" : 0,
+         "daily_trades" : 14
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 362670.15,
+         "fg_value" : 53,
+         "date" : "2024-07-01",
+         "daily_buy_pct" : 9.38,
+         "daily_pnl" : 5065.84,
+         "daily_trades" : 64
+      },
+      {
+         "daily_pnl" : 2421.25,
+         "daily_trades" : 18,
+         "daily_buy_pct" : 72.22,
+         "date" : "2024-07-02",
+         "daily_vol" : 33347.47,
+         "fg_value" : 51,
+         "fg_class" : "Neutral"
+      },
+      {
+         "date" : "2024-07-03",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 18,
+         "daily_pnl" : 1118.39,
+         "fg_class" : "Neutral",
+         "fg_value" : 50,
+         "daily_vol" : 179600.66
+      },
+      {
+         "daily_vol" : 430568.01,
+         "fg_value" : 44,
+         "fg_class" : "Fear",
+         "daily_trades" : 25,
+         "daily_pnl" : 0,
+         "date" : "2024-07-04",
+         "daily_buy_pct" : 100
+      },
+      {
+         "date" : "2024-07-05",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 32,
+         "daily_pnl" : 0,
+         "fg_class" : "Fear",
+         "fg_value" : 29,
+         "daily_vol" : 272289.89
+      },
+      {
+         "date" : "2024-07-06",
+         "daily_buy_pct" : 70.83,
+         "daily_trades" : 24,
+         "daily_pnl" : 108.87,
+         "fg_class" : "Fear",
+         "fg_value" : 26,
+         "daily_vol" : 2490.17
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-07-07",
+         "daily_pnl" : 61.43,
+         "daily_trades" : 10,
+         "fg_class" : "Fear",
+         "daily_vol" : 498.75,
+         "fg_value" : 29
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 28,
+         "daily_vol" : 497.64,
+         "date" : "2024-07-08",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 1,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 27,
+         "daily_vol" : 2736.45,
+         "daily_buy_pct" : 0,
+         "date" : "2024-07-09",
+         "daily_trades" : 15,
+         "daily_pnl" : 648.98
+      },
+      {
+         "daily_vol" : 687900.21,
+         "fg_value" : 28,
+         "fg_class" : "Fear",
+         "daily_trades" : 56,
+         "daily_pnl" : 11977.73,
+         "daily_buy_pct" : 17.86,
+         "date" : "2024-07-10"
+      },
+      {
+         "daily_buy_pct" : 52.63,
+         "date" : "2024-07-11",
+         "daily_trades" : 19,
+         "daily_pnl" : 1876.81,
+         "fg_class" : "Fear",
+         "fg_value" : 29,
+         "daily_vol" : 169887.02
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 25,
+         "daily_vol" : 89582.97,
+         "daily_buy_pct" : 100,
+         "date" : "2024-07-12",
+         "daily_trades" : 19,
+         "daily_pnl" : 1412.31
+      },
+      {
+         "daily_trades" : 17,
+         "daily_pnl" : 2913.62,
+         "date" : "2024-07-13",
+         "daily_buy_pct" : 0,
+         "fg_value" : 25,
+         "daily_vol" : 139189.19,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 33,
+         "daily_vol" : 84001.13,
+         "daily_buy_pct" : 0,
+         "date" : "2024-07-14",
+         "daily_trades" : 7,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 52,
+         "daily_vol" : 198344.85,
+         "daily_buy_pct" : 7.69,
+         "date" : "2024-07-15",
+         "daily_trades" : 26,
+         "daily_pnl" : -1
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 65,
+         "daily_vol" : 144000.57,
+         "date" : "2024-07-16",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : 0,
+         "daily_trades" : 22
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 69,
+         "daily_vol" : 626005.53,
+         "date" : "2024-07-17",
+         "daily_buy_pct" : 44.16,
+         "daily_trades" : 351,
+         "daily_pnl" : 1859.27
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 649704.85,
+         "fg_value" : 61,
+         "daily_buy_pct" : 100,
+         "date" : "2024-07-18",
+         "daily_pnl" : 3803.88,
+         "daily_trades" : 60
+      },
+      {
+         "daily_trades" : 23,
+         "daily_pnl" : 2155.89,
+         "date" : "2024-07-19",
+         "daily_buy_pct" : 4.35,
+         "daily_vol" : 150269.42,
+         "fg_value" : 60,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-07-20",
+         "daily_buy_pct" : 15.41,
+         "daily_pnl" : 2299.17,
+         "daily_trades" : 266,
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 244362.21
+      },
+      {
+         "daily_pnl" : -2960.72,
+         "daily_trades" : 448,
+         "daily_buy_pct" : 53.35,
+         "date" : "2024-07-21",
+         "daily_vol" : 234307.46,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-07-22",
+         "daily_buy_pct" : 66.88,
+         "daily_pnl" : 1517.12,
+         "daily_trades" : 154,
+         "fg_class" : "Greed",
+         "daily_vol" : 304213.8,
+         "fg_value" : 70
+      },
+      {
+         "date" : "2024-07-23",
+         "daily_buy_pct" : 37.03,
+         "daily_trades" : 370,
+         "daily_pnl" : 89890.3,
+         "fg_class" : "Greed",
+         "daily_vol" : 358526.54,
+         "fg_value" : 71
+      },
+      {
+         "fg_value" : 69,
+         "daily_vol" : 69207.93,
+         "fg_class" : "Greed",
+         "daily_trades" : 90,
+         "daily_pnl" : 625.56,
+         "daily_buy_pct" : 60,
+         "date" : "2024-07-24"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 68,
+         "daily_vol" : 528555.31,
+         "date" : "2024-07-25",
+         "daily_buy_pct" : 98.72,
+         "daily_trades" : 78,
+         "daily_pnl" : 916.74
+      },
+      {
+         "daily_pnl" : 2766.51,
+         "daily_trades" : 152,
+         "daily_buy_pct" : 28.29,
+         "date" : "2024-07-26",
+         "daily_vol" : 548587.65,
+         "fg_value" : 68,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 905199.75,
+         "fg_value" : 72,
+         "fg_class" : "Greed",
+         "daily_trades" : 57,
+         "daily_pnl" : 6400.62,
+         "daily_buy_pct" : 15.79,
+         "date" : "2024-07-27"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 71,
+         "daily_vol" : 43254.68,
+         "date" : "2024-07-28",
+         "daily_buy_pct" : 93.75,
+         "daily_trades" : 16,
+         "daily_pnl" : 587.3
+      },
+      {
+         "daily_vol" : 327199.14,
+         "fg_value" : 74,
+         "fg_class" : "Greed",
+         "daily_pnl" : 330.8,
+         "daily_trades" : 39,
+         "daily_buy_pct" : 46.15,
+         "date" : "2024-07-29"
+      },
+      {
+         "daily_vol" : 36006.47,
+         "fg_value" : 67,
+         "fg_class" : "Greed",
+         "daily_trades" : 6,
+         "daily_pnl" : 0,
+         "date" : "2024-07-30",
+         "daily_buy_pct" : 100
+      },
+      {
+         "daily_trades" : 43,
+         "daily_pnl" : 765.69,
+         "daily_buy_pct" : 39.53,
+         "date" : "2024-07-31",
+         "fg_value" : 61,
+         "daily_vol" : 84506.54,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 227774.53,
+         "fg_value" : 52,
+         "fg_class" : "Neutral",
+         "daily_trades" : 57,
+         "daily_pnl" : 167.08,
+         "daily_buy_pct" : 82.46,
+         "date" : "2024-08-01"
+      },
+      {
+         "fg_value" : 57,
+         "daily_vol" : 396320.37,
+         "fg_class" : "Greed",
+         "daily_trades" : 63,
+         "daily_pnl" : 782.37,
+         "date" : "2024-08-02",
+         "daily_buy_pct" : 66.67
+      },
+      {
+         "daily_buy_pct" : 97.3,
+         "date" : "2024-08-03",
+         "daily_trades" : 37,
+         "daily_pnl" : 464.19,
+         "fg_class" : "Fear",
+         "daily_vol" : 290532.86,
+         "fg_value" : 37
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 34,
+         "daily_vol" : 1207744.07,
+         "daily_buy_pct" : 47.24,
+         "date" : "2024-08-04",
+         "daily_trades" : 127,
+         "daily_pnl" : -122672
+      },
+      {
+         "daily_trades" : 80,
+         "daily_pnl" : -13013.67,
+         "date" : "2024-08-05",
+         "daily_buy_pct" : 51.25,
+         "fg_value" : 26,
+         "daily_vol" : 420495.4,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_pnl" : 267.32,
+         "daily_trades" : 107,
+         "date" : "2024-08-06",
+         "daily_buy_pct" : 71.03,
+         "daily_vol" : 61478.38,
+         "fg_value" : 17,
+         "fg_class" : "Extreme Fear"
+      },
+      {
+         "daily_vol" : 2492.77,
+         "fg_value" : 29,
+         "fg_class" : "Fear",
+         "daily_pnl" : 188.79,
+         "daily_trades" : 33,
+         "date" : "2024-08-07",
+         "daily_buy_pct" : 36.36
+      },
+      {
+         "fg_class" : "Extreme Fear",
+         "daily_vol" : 16299.35,
+         "fg_value" : 20,
+         "daily_buy_pct" : 55.56,
+         "date" : "2024-08-08",
+         "daily_pnl" : -40.71,
+         "daily_trades" : 9
+      },
+      {
+         "fg_value" : 48,
+         "daily_vol" : 503204.86,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 18082.07,
+         "daily_trades" : 144,
+         "daily_buy_pct" : 37.5,
+         "date" : "2024-08-09"
+      },
+      {
+         "daily_trades" : 88,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 98.86,
+         "date" : "2024-08-10",
+         "fg_value" : 40,
+         "daily_vol" : 11339.29,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_vol" : 44230.21,
+         "fg_value" : 39,
+         "fg_class" : "Fear",
+         "daily_pnl" : 847.78,
+         "daily_trades" : 24,
+         "daily_buy_pct" : 66.67,
+         "date" : "2024-08-11"
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 54167.32,
+         "fg_value" : 25,
+         "date" : "2024-08-12",
+         "daily_buy_pct" : 81.25,
+         "daily_trades" : 48,
+         "daily_pnl" : 858.67
+      },
+      {
+         "daily_trades" : 23,
+         "daily_pnl" : 212.08,
+         "date" : "2024-08-13",
+         "daily_buy_pct" : 86.96,
+         "fg_value" : 31,
+         "daily_vol" : 20797.87,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_value" : 30,
+         "daily_vol" : 66710.03,
+         "fg_class" : "Fear",
+         "daily_pnl" : 2168.9,
+         "daily_trades" : 25,
+         "date" : "2024-08-14",
+         "daily_buy_pct" : 76
+      },
+      {
+         "daily_buy_pct" : 100,
+         "date" : "2024-08-15",
+         "daily_trades" : 12,
+         "daily_pnl" : 0,
+         "fg_class" : "Fear",
+         "fg_value" : 29,
+         "daily_vol" : 1522.37
+      },
+      {
+         "daily_vol" : 166382.84,
+         "fg_value" : 27,
+         "fg_class" : "Fear",
+         "daily_trades" : 35,
+         "daily_pnl" : 825.23,
+         "daily_buy_pct" : 91.43,
+         "date" : "2024-08-16"
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 30248.96,
+         "fg_value" : 25,
+         "daily_buy_pct" : 96.67,
+         "date" : "2024-08-17",
+         "daily_pnl" : -288.28,
+         "daily_trades" : 30
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-08-18",
+         "daily_trades" : 15,
+         "daily_pnl" : 307.2,
+         "fg_class" : "Fear",
+         "fg_value" : 31,
+         "daily_vol" : 62804.48
+      },
+      {
+         "daily_buy_pct" : 37.5,
+         "date" : "2024-08-19",
+         "daily_pnl" : 339.7,
+         "daily_trades" : 8,
+         "fg_class" : "Fear",
+         "daily_vol" : 100315.03,
+         "fg_value" : 28
+      },
+      {
+         "fg_value" : 30,
+         "daily_vol" : 49914.8,
+         "fg_class" : "Fear",
+         "daily_pnl" : 192.6,
+         "daily_trades" : 12,
+         "date" : "2024-08-20",
+         "daily_buy_pct" : 41.67
+      },
+      {
+         "daily_pnl" : 656.2,
+         "daily_trades" : 145,
+         "daily_buy_pct" : 38.62,
+         "date" : "2024-08-21",
+         "daily_vol" : 104990.41,
+         "fg_value" : 26,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_pnl" : 1005.31,
+         "daily_trades" : 10,
+         "date" : "2024-08-23",
+         "daily_buy_pct" : 0,
+         "daily_vol" : 63509.56,
+         "fg_value" : 34,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 7,
+         "daily_buy_pct" : 0,
+         "date" : "2024-08-24",
+         "fg_value" : 56,
+         "daily_vol" : 34999.67,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 17,
+         "daily_buy_pct" : 47.06,
+         "date" : "2024-08-25",
+         "daily_vol" : 21950.28,
+         "fg_value" : 54,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_trades" : 6,
+         "daily_pnl" : 231.24,
+         "date" : "2024-08-26",
+         "daily_buy_pct" : 100,
+         "daily_vol" : 92611.27,
+         "fg_value" : 55,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 50,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 98,
+         "date" : "2024-08-27",
+         "daily_vol" : 70250.16,
+         "fg_value" : 48,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_pnl" : 1333.36,
+         "daily_trades" : 9,
+         "daily_buy_pct" : 100,
+         "date" : "2024-08-28",
+         "daily_vol" : 71160.07,
+         "fg_value" : 30,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_vol" : 9995.85,
+         "fg_value" : 29,
+         "fg_class" : "Fear",
+         "daily_trades" : 1,
+         "daily_pnl" : 0,
+         "date" : "2024-08-29",
+         "daily_buy_pct" : 0
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 34,
+         "daily_vol" : 37233.24,
+         "daily_buy_pct" : 66.67,
+         "date" : "2024-08-30",
+         "daily_pnl" : 256.46,
+         "daily_trades" : 6
+      },
+      {
+         "fg_value" : 29,
+         "daily_vol" : 107507.43,
+         "fg_class" : "Fear",
+         "daily_pnl" : 10.88,
+         "daily_trades" : 34,
+         "daily_buy_pct" : 32.35,
+         "date" : "2024-08-31"
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 12359.68,
+         "fg_value" : 26,
+         "daily_buy_pct" : 58.33,
+         "date" : "2024-09-01",
+         "daily_trades" : 12,
+         "daily_pnl" : 137.43
+      },
+      {
+         "daily_vol" : 30000.42,
+         "fg_value" : 26,
+         "fg_class" : "Fear",
+         "daily_pnl" : 0,
+         "daily_trades" : 2,
+         "daily_buy_pct" : 100,
+         "date" : "2024-09-02"
+      },
+      {
+         "daily_trades" : 34,
+         "daily_pnl" : 1065.79,
+         "date" : "2024-09-04",
+         "daily_buy_pct" : 91.18,
+         "daily_vol" : 131480.97,
+         "fg_value" : 27,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 29,
+         "daily_vol" : 0.84,
+         "date" : "2024-09-05",
+         "daily_buy_pct" : 0,
+         "daily_pnl" : 0,
+         "daily_trades" : 1
+      },
+      {
+         "daily_vol" : 39047.1,
+         "fg_value" : 22,
+         "fg_class" : "Extreme Fear",
+         "daily_trades" : 42,
+         "daily_pnl" : -1104.86,
+         "date" : "2024-09-06",
+         "daily_buy_pct" : 9.52
+      },
+      {
+         "fg_value" : 29,
+         "daily_vol" : 0.11,
+         "fg_class" : "Fear",
+         "daily_trades" : 1,
+         "daily_pnl" : 0,
+         "date" : "2024-09-08",
+         "daily_buy_pct" : 0
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 26,
+         "daily_vol" : 4014.43,
+         "daily_buy_pct" : 100,
+         "date" : "2024-09-09",
+         "daily_pnl" : 0,
+         "daily_trades" : 2
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 2547.28,
+         "fg_value" : 33,
+         "date" : "2024-09-10",
+         "daily_buy_pct" : 33.33,
+         "daily_pnl" : -219.73,
+         "daily_trades" : 3
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 0.54,
+         "fg_value" : 37,
+         "date" : "2024-09-11",
+         "daily_buy_pct" : 0,
+         "daily_trades" : 1,
+         "daily_pnl" : 0
+      },
+      {
+         "daily_trades" : 11,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 90.91,
+         "date" : "2024-09-14",
+         "fg_value" : 50,
+         "daily_vol" : 1014.8,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_vol" : 13633.5,
+         "fg_value" : 45,
+         "fg_class" : "Neutral",
+         "daily_pnl" : -878.68,
+         "daily_trades" : 145,
+         "daily_buy_pct" : 7.59,
+         "date" : "2024-09-18"
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 1521.87,
+         "fg_value" : 49,
+         "daily_buy_pct" : 100,
+         "date" : "2024-09-19",
+         "daily_trades" : 19,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_value" : 54,
+         "daily_vol" : 332873.38,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 9585.03,
+         "daily_trades" : 16,
+         "date" : "2024-09-20",
+         "daily_buy_pct" : 18.75
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-09-21",
+         "daily_trades" : 23,
+         "daily_pnl" : 36165.57,
+         "fg_class" : "Neutral",
+         "fg_value" : 54,
+         "daily_vol" : 165648.12
+      },
+      {
+         "daily_buy_pct" : 100,
+         "date" : "2024-09-22",
+         "daily_trades" : 3,
+         "daily_pnl" : 0,
+         "fg_class" : "Neutral",
+         "daily_vol" : 19999.74,
+         "fg_value" : 52
+      },
+      {
+         "fg_value" : 50,
+         "daily_vol" : 40334.29,
+         "fg_class" : "Neutral",
+         "daily_trades" : 2,
+         "daily_pnl" : 334.76,
+         "date" : "2024-09-23",
+         "daily_buy_pct" : 50
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 7118.63,
+         "fg_value" : 54,
+         "daily_buy_pct" : 90,
+         "date" : "2024-09-24",
+         "daily_pnl" : 0,
+         "daily_trades" : 10
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 9,
+         "date" : "2024-09-25",
+         "daily_buy_pct" : 66.67,
+         "fg_value" : 59,
+         "daily_vol" : 52754.13,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-09-26",
+         "daily_pnl" : 439.81,
+         "daily_trades" : 8,
+         "fg_class" : "Neutral",
+         "fg_value" : 50,
+         "daily_vol" : 113711.93
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 56,
+         "daily_buy_pct" : 0,
+         "date" : "2024-09-27",
+         "fg_value" : 61,
+         "daily_vol" : 126097.04,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-09-28",
+         "daily_buy_pct" : 0,
+         "daily_trades" : 4,
+         "daily_pnl" : 0,
+         "fg_class" : "Greed",
+         "fg_value" : 64,
+         "daily_vol" : 29199.21
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 214669.85,
+         "fg_value" : 61,
+         "daily_buy_pct" : 9.43,
+         "date" : "2024-09-30",
+         "daily_trades" : 106,
+         "daily_pnl" : 2710.63
+      },
+      {
+         "daily_trades" : 4,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 100,
+         "date" : "2024-10-01",
+         "daily_vol" : 139954.32,
+         "fg_value" : 50,
+         "fg_class" : "Neutral"
+      },
+      {
+         "fg_value" : 42,
+         "daily_vol" : 99954.34,
+         "fg_class" : "Fear",
+         "daily_trades" : 4,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 100,
+         "date" : "2024-10-02"
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 132935.69,
+         "fg_value" : 37,
+         "daily_buy_pct" : 66.67,
+         "date" : "2024-10-03",
+         "daily_trades" : 9,
+         "daily_pnl" : 100.38
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 0.34,
+         "fg_value" : 41,
+         "daily_buy_pct" : 0,
+         "date" : "2024-10-04",
+         "daily_trades" : 1,
+         "daily_pnl" : 0
+      },
+      {
+         "date" : "2024-10-05",
+         "daily_buy_pct" : 24.32,
+         "daily_trades" : 37,
+         "daily_pnl" : 5767.16,
+         "fg_class" : "Neutral",
+         "fg_value" : 49,
+         "daily_vol" : 605605.74
+      },
+      {
+         "date" : "2024-10-06",
+         "daily_buy_pct" : 27.27,
+         "daily_trades" : 22,
+         "daily_pnl" : 130.49,
+         "fg_class" : "Neutral",
+         "fg_value" : 50,
+         "daily_vol" : 300130.56
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 219984.65,
+         "fg_value" : 50,
+         "daily_buy_pct" : 0,
+         "date" : "2024-10-07",
+         "daily_trades" : 21,
+         "daily_pnl" : 0
+      },
+      {
+         "daily_buy_pct" : 94.44,
+         "date" : "2024-10-08",
+         "daily_pnl" : 5396.55,
+         "daily_trades" : 36,
+         "fg_class" : "Neutral",
+         "fg_value" : 49,
+         "daily_vol" : 434584.13
+      },
+      {
+         "date" : "2024-10-09",
+         "daily_buy_pct" : 78.57,
+         "daily_trades" : 14,
+         "daily_pnl" : 396.06,
+         "fg_class" : "Neutral",
+         "daily_vol" : 220399.93,
+         "fg_value" : 49
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 39,
+         "daily_vol" : 300024.34,
+         "date" : "2024-10-10",
+         "daily_buy_pct" : 100,
+         "daily_trades" : 16,
+         "daily_pnl" : 0
+      },
+      {
+         "fg_value" : 32,
+         "daily_vol" : 488904.19,
+         "fg_class" : "Fear",
+         "daily_pnl" : 8885.33,
+         "daily_trades" : 26,
+         "date" : "2024-10-11",
+         "daily_buy_pct" : 0
+      },
+      {
+         "daily_buy_pct" : 70,
+         "date" : "2024-10-12",
+         "daily_trades" : 10,
+         "daily_pnl" : 541.55,
+         "fg_class" : "Neutral",
+         "daily_vol" : 159713.4,
+         "fg_value" : 49
+      },
+      {
+         "daily_pnl" : 0,
+         "daily_trades" : 10,
+         "daily_buy_pct" : 100,
+         "date" : "2024-10-13",
+         "fg_value" : 50,
+         "daily_vol" : 60002.42,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_vol" : 61916.02,
+         "fg_value" : 48,
+         "fg_class" : "Neutral",
+         "daily_trades" : 5,
+         "daily_pnl" : 1913.62,
+         "daily_buy_pct" : 0,
+         "date" : "2024-10-14"
+      },
+      {
+         "daily_pnl" : 1170.23,
+         "daily_trades" : 7,
+         "date" : "2024-10-15",
+         "daily_buy_pct" : 42.86,
+         "fg_value" : 65,
+         "daily_vol" : 81173.36,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-10-16",
+         "daily_buy_pct" : 72.73,
+         "daily_trades" : 11,
+         "daily_pnl" : 219.48,
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 80229.17
+      },
+      {
+         "daily_trades" : 9,
+         "daily_pnl" : 36.11,
+         "date" : "2024-10-17",
+         "daily_buy_pct" : 77.78,
+         "daily_vol" : 140531.75,
+         "fg_value" : 71,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 16.67,
+         "date" : "2024-10-18",
+         "daily_trades" : 6,
+         "daily_pnl" : 333.22,
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 120331.43
+      },
+      {
+         "fg_value" : 72,
+         "daily_vol" : 99996.86,
+         "fg_class" : "Greed",
+         "daily_pnl" : 0,
+         "daily_trades" : 4,
+         "date" : "2024-10-19",
+         "daily_buy_pct" : 100
+      },
+      {
+         "date" : "2024-10-20",
+         "daily_buy_pct" : 7.29,
+         "daily_pnl" : 389.16,
+         "daily_trades" : 96,
+         "fg_class" : "Greed",
+         "daily_vol" : 176447.86,
+         "fg_value" : 73
+      },
+      {
+         "daily_vol" : 324117.99,
+         "fg_value" : 72,
+         "fg_class" : "Greed",
+         "daily_pnl" : 2464.92,
+         "daily_trades" : 173,
+         "daily_buy_pct" : 45.66,
+         "date" : "2024-10-21"
+      },
+      {
+         "daily_buy_pct" : 100,
+         "date" : "2024-10-22",
+         "daily_pnl" : 0,
+         "daily_trades" : 3,
+         "fg_class" : "Greed",
+         "daily_vol" : 60000.36,
+         "fg_value" : 70
+      },
+      {
+         "daily_vol" : 210006.07,
+         "fg_value" : 71,
+         "fg_class" : "Greed",
+         "daily_trades" : 18,
+         "daily_pnl" : -46.49,
+         "daily_buy_pct" : 83.33,
+         "date" : "2024-10-23"
+      },
+      {
+         "fg_value" : 72,
+         "daily_vol" : 427883.18,
+         "fg_class" : "Greed",
+         "daily_trades" : 30,
+         "daily_pnl" : 13235.86,
+         "daily_buy_pct" : 46.67,
+         "date" : "2024-10-25"
+      },
+      {
+         "daily_trades" : 4,
+         "daily_pnl" : 666.66,
+         "daily_buy_pct" : 0,
+         "date" : "2024-10-27",
+         "daily_vol" : 90664.41,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_buy_pct" : 0,
+         "date" : "2024-10-28",
+         "daily_trades" : 13,
+         "daily_pnl" : 167.28,
+         "fg_class" : "Greed",
+         "daily_vol" : 121495.25,
+         "fg_value" : 72
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 613267.81,
+         "fg_value" : 72,
+         "daily_buy_pct" : 5.66,
+         "date" : "2024-10-29",
+         "daily_pnl" : 801.17,
+         "daily_trades" : 53
+      },
+      {
+         "fg_value" : 77,
+         "daily_vol" : 11830.85,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 9.15,
+         "daily_trades" : 25,
+         "daily_buy_pct" : 32,
+         "date" : "2024-10-30"
+      },
+      {
+         "date" : "2024-10-31",
+         "daily_buy_pct" : 87.5,
+         "daily_pnl" : 1214.04,
+         "daily_trades" : 48,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 77,
+         "daily_vol" : 896173.36
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 260981.03,
+         "fg_value" : 75,
+         "date" : "2024-11-01",
+         "daily_buy_pct" : 56.52,
+         "daily_trades" : 23,
+         "daily_pnl" : 1040.48
+      },
+      {
+         "fg_value" : 72,
+         "daily_vol" : 40000,
+         "fg_class" : "Greed",
+         "daily_pnl" : 0,
+         "daily_trades" : 2,
+         "daily_buy_pct" : 100,
+         "date" : "2024-11-02"
+      },
+      {
+         "fg_value" : 74,
+         "daily_vol" : 129055.66,
+         "fg_class" : "Greed",
+         "daily_trades" : 6,
+         "daily_pnl" : 0,
+         "daily_buy_pct" : 100,
+         "date" : "2024-11-03"
+      },
+      {
+         "daily_buy_pct" : 36.11,
+         "date" : "2024-11-04",
+         "daily_pnl" : 2799.41,
+         "daily_trades" : 36,
+         "fg_class" : "Greed",
+         "daily_vol" : 451811.97,
+         "fg_value" : 70
+      },
+      {
+         "daily_pnl" : 678.48,
+         "daily_trades" : 10,
+         "date" : "2024-11-05",
+         "daily_buy_pct" : 50,
+         "fg_value" : 70,
+         "daily_vol" : 200627.23,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_pnl" : 2817.84,
+         "daily_trades" : 15,
+         "daily_buy_pct" : 40,
+         "date" : "2024-11-06",
+         "daily_vol" : 123906.9,
+         "fg_value" : 70,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 111335.3,
+         "fg_value" : 77,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 4493.35,
+         "daily_trades" : 113,
+         "date" : "2024-11-07",
+         "daily_buy_pct" : 46.9
+      },
+      {
+         "daily_trades" : 39,
+         "daily_pnl" : -64.41,
+         "date" : "2024-11-08",
+         "daily_buy_pct" : 58.97,
+         "daily_vol" : 270700.44,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_value" : 75,
+         "daily_vol" : 193384.41,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 86,
+         "daily_pnl" : 102.91,
+         "date" : "2024-11-09",
+         "daily_buy_pct" : 61.63
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 78,
+         "daily_vol" : 413636.7,
+         "daily_buy_pct" : 27.75,
+         "date" : "2024-11-10",
+         "daily_pnl" : 991.11,
+         "daily_trades" : 173
+      },
+      {
+         "daily_buy_pct" : 25.2,
+         "date" : "2024-11-11",
+         "daily_pnl" : 6749.63,
+         "daily_trades" : 373,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1570572.42,
+         "fg_value" : 76
+      },
+      {
+         "daily_vol" : 1226354.52,
+         "fg_value" : 80,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 3494.4,
+         "daily_trades" : 171,
+         "daily_buy_pct" : 57.31,
+         "date" : "2024-11-12"
+      },
+      {
+         "daily_trades" : 48,
+         "daily_pnl" : 7846.4,
+         "daily_buy_pct" : 33.33,
+         "date" : "2024-11-13",
+         "daily_vol" : 515336.37,
+         "fg_value" : 84,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_buy_pct" : 74.55,
+         "date" : "2024-11-14",
+         "daily_pnl" : 4563.51,
+         "daily_trades" : 110,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1008361.81,
+         "fg_value" : 88
+      },
+      {
+         "daily_vol" : 1427858.42,
+         "fg_value" : 80,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 149,
+         "daily_pnl" : 4140.74,
+         "date" : "2024-11-15",
+         "daily_buy_pct" : 61.07
+      },
+      {
+         "daily_pnl" : 2769.52,
+         "daily_trades" : 157,
+         "daily_buy_pct" : 49.04,
+         "date" : "2024-11-16",
+         "fg_value" : 86,
+         "daily_vol" : 303296.07,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "date" : "2024-11-17",
+         "daily_buy_pct" : 34.93,
+         "daily_trades" : 209,
+         "daily_pnl" : 882.98,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1215987.57,
+         "fg_value" : 90
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 83,
+         "daily_vol" : 2084339.58,
+         "date" : "2024-11-18",
+         "daily_buy_pct" : 36.13,
+         "daily_pnl" : 4470.82,
+         "daily_trades" : 346
+      },
+      {
+         "date" : "2024-11-19",
+         "daily_buy_pct" : 52.46,
+         "daily_trades" : 305,
+         "daily_pnl" : 2958.27,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 90,
+         "daily_vol" : 628031.15
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1999514.12,
+         "fg_value" : 83,
+         "daily_buy_pct" : 44.36,
+         "date" : "2024-11-20",
+         "daily_trades" : 550,
+         "daily_pnl" : 4210.09
+      },
+      {
+         "date" : "2024-11-21",
+         "daily_buy_pct" : 43.93,
+         "daily_pnl" : 1692.43,
+         "daily_trades" : 535,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 598300.62,
+         "fg_value" : 82
+      },
+      {
+         "fg_value" : 94,
+         "daily_vol" : 1646713.62,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : -18105.35,
+         "daily_trades" : 679,
+         "daily_buy_pct" : 48.16,
+         "date" : "2024-11-22"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 516245.68,
+         "fg_value" : 93,
+         "date" : "2024-11-23",
+         "daily_buy_pct" : 41.32,
+         "daily_trades" : 363,
+         "daily_pnl" : 2901.53
+      },
+      {
+         "daily_trades" : 172,
+         "daily_pnl" : 945.55,
+         "date" : "2024-11-24",
+         "daily_buy_pct" : 59.88,
+         "fg_value" : 80,
+         "daily_vol" : 664952.28,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 82,
+         "daily_vol" : 937410.87,
+         "date" : "2024-11-25",
+         "daily_buy_pct" : 49.41,
+         "daily_pnl" : 5523.74,
+         "daily_trades" : 255
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 79,
+         "daily_vol" : 1146902.44,
+         "daily_buy_pct" : 65.23,
+         "date" : "2024-11-26",
+         "daily_pnl" : 1094.81,
+         "daily_trades" : 302
+      },
+      {
+         "daily_trades" : 213,
+         "daily_pnl" : -2654.5,
+         "daily_buy_pct" : 33.8,
+         "date" : "2024-11-27",
+         "fg_value" : 75,
+         "daily_vol" : 1444242.53,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 332,
+         "daily_pnl" : -127075.4,
+         "daily_buy_pct" : 62.35,
+         "date" : "2024-11-28",
+         "fg_value" : 77,
+         "daily_vol" : 1894225.15,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_pnl" : 176844.99,
+         "daily_trades" : 393,
+         "daily_buy_pct" : 37.66,
+         "date" : "2024-11-29",
+         "daily_vol" : 794262.91,
+         "fg_value" : 78,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1732193.7,
+         "fg_value" : 84,
+         "daily_buy_pct" : 27.61,
+         "date" : "2024-11-30",
+         "daily_pnl" : 37316.69,
+         "daily_trades" : 373
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 814711.82,
+         "fg_value" : 81,
+         "date" : "2024-12-01",
+         "daily_buy_pct" : 34.62,
+         "daily_pnl" : 40886.36,
+         "daily_trades" : 416
+      },
+      {
+         "daily_pnl" : 18489.6,
+         "daily_trades" : 270,
+         "daily_buy_pct" : 57.78,
+         "date" : "2024-12-02",
+         "daily_vol" : 585243.56,
+         "fg_value" : 80,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1084666.53,
+         "fg_value" : 76,
+         "daily_buy_pct" : 45.45,
+         "date" : "2024-12-03",
+         "daily_trades" : 374,
+         "daily_pnl" : 23576.54
+      },
+      {
+         "daily_buy_pct" : 30.09,
+         "date" : "2024-12-04",
+         "daily_pnl" : 292891.82,
+         "daily_trades" : 319,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 78,
+         "daily_vol" : 769287.65
+      },
+      {
+         "daily_vol" : 1256750.79,
+         "fg_value" : 84,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 71574.12,
+         "daily_trades" : 456,
+         "daily_buy_pct" : 42.11,
+         "date" : "2024-12-05"
+      },
+      {
+         "daily_buy_pct" : 50.87,
+         "date" : "2024-12-06",
+         "daily_trades" : 403,
+         "daily_pnl" : -92624.64,
+         "fg_class" : "Greed",
+         "daily_vol" : 3471019.22,
+         "fg_value" : 72
+      },
+      {
+         "daily_vol" : 451733.42,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 85906.28,
+         "daily_trades" : 304,
+         "daily_buy_pct" : 36.18,
+         "date" : "2024-12-07"
+      },
+      {
+         "daily_pnl" : 15965.93,
+         "daily_trades" : 420,
+         "daily_buy_pct" : 19.52,
+         "date" : "2024-12-08",
+         "daily_vol" : 932939.72,
+         "fg_value" : 79,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_vol" : 983949.68,
+         "fg_value" : 78,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 539,
+         "daily_pnl" : 6310.97,
+         "daily_buy_pct" : 84.42,
+         "date" : "2024-12-09"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 3150424.08,
+         "fg_value" : 78,
+         "daily_buy_pct" : 33.21,
+         "date" : "2024-12-10",
+         "daily_pnl" : 39325.77,
+         "daily_trades" : 1596
+      },
+      {
+         "date" : "2024-12-11",
+         "daily_buy_pct" : 14,
+         "daily_pnl" : 319051.55,
+         "daily_trades" : 1221,
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 2194098.33
+      },
+      {
+         "daily_pnl" : 599151.8,
+         "daily_trades" : 1932,
+         "daily_buy_pct" : 21.79,
+         "date" : "2024-12-12",
+         "daily_vol" : 4557189.87,
+         "fg_value" : 83,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "date" : "2024-12-13",
+         "daily_buy_pct" : 57.63,
+         "daily_pnl" : 31935.9,
+         "daily_trades" : 1173,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 2880824.64,
+         "fg_value" : 76
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 2369561.78,
+         "fg_value" : 83,
+         "date" : "2024-12-14",
+         "daily_buy_pct" : 48.18,
+         "daily_trades" : 1235,
+         "daily_pnl" : 167801.4
+      },
+      {
+         "daily_trades" : 1697,
+         "daily_pnl" : 97525.32,
+         "date" : "2024-12-15",
+         "daily_buy_pct" : 66.65,
+         "fg_value" : 80,
+         "daily_vol" : 2583269.81,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 2740808.97,
+         "fg_value" : 83,
+         "daily_buy_pct" : 40.09,
+         "date" : "2024-12-16",
+         "daily_trades" : 1055,
+         "daily_pnl" : 166774.34
+      },
+      {
+         "daily_buy_pct" : 43.84,
+         "date" : "2024-12-17",
+         "daily_pnl" : 219591.31,
+         "daily_trades" : 1941,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 5233597.63,
+         "fg_value" : 87
+      },
+      {
+         "daily_vol" : 3798887.07,
+         "fg_value" : 81,
+         "fg_class" : "Extreme Greed",
+         "daily_pnl" : 13682.99,
+         "daily_trades" : 1429,
+         "daily_buy_pct" : 50.03,
+         "date" : "2024-12-18"
+      },
+      {
+         "daily_trades" : 3339,
+         "daily_pnl" : 62744,
+         "daily_buy_pct" : 35.97,
+         "date" : "2024-12-19",
+         "fg_value" : 75,
+         "daily_vol" : 8241709.39,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "date" : "2024-12-20",
+         "daily_buy_pct" : 45.38,
+         "daily_pnl" : 254969.66,
+         "daily_trades" : 2488,
+         "fg_class" : "Greed",
+         "fg_value" : 74,
+         "daily_vol" : 7681274.71
+      },
+      {
+         "daily_trades" : 1681,
+         "daily_pnl" : 150022.16,
+         "daily_buy_pct" : 35.46,
+         "date" : "2024-12-21",
+         "daily_vol" : 4382875.12,
+         "fg_value" : 73,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2024-12-22",
+         "daily_buy_pct" : 57.88,
+         "daily_trades" : 774,
+         "daily_pnl" : 352197.16,
+         "fg_class" : "Greed",
+         "daily_vol" : 3087320.22,
+         "fg_value" : 73
+      },
+      {
+         "fg_value" : 70,
+         "daily_vol" : 6771878.26,
+         "fg_class" : "Greed",
+         "daily_pnl" : -29430.63,
+         "daily_trades" : 2347,
+         "date" : "2024-12-23",
+         "daily_buy_pct" : 44.14
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 1767036.11,
+         "daily_buy_pct" : 34.91,
+         "date" : "2024-12-24",
+         "daily_pnl" : 14813.78,
+         "daily_trades" : 338
+      },
+      {
+         "daily_buy_pct" : 41.35,
+         "date" : "2024-12-25",
+         "daily_pnl" : 756.66,
+         "daily_trades" : 208,
+         "fg_class" : "Greed",
+         "fg_value" : 73,
+         "daily_vol" : 347889.35
+      },
+      {
+         "daily_buy_pct" : 53.52,
+         "date" : "2024-12-26",
+         "daily_trades" : 697,
+         "daily_pnl" : 60228.64,
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 2205242.65,
+         "fg_value" : 79
+      },
+      {
+         "daily_pnl" : 2672.81,
+         "daily_trades" : 260,
+         "daily_buy_pct" : 52.69,
+         "date" : "2024-12-27",
+         "daily_vol" : 347913,
+         "fg_value" : 74,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 72,
+         "daily_vol" : 281555.01,
+         "daily_buy_pct" : 35.4,
+         "date" : "2024-12-28",
+         "daily_trades" : 161,
+         "daily_pnl" : 940.67
+      },
+      {
+         "fg_value" : 73,
+         "daily_vol" : 344628.54,
+         "fg_class" : "Greed",
+         "daily_trades" : 201,
+         "daily_pnl" : 2884.07,
+         "daily_buy_pct" : 34.33,
+         "date" : "2024-12-29"
+      },
+      {
+         "date" : "2024-12-30",
+         "daily_buy_pct" : 60.2,
+         "daily_pnl" : 9009.74,
+         "daily_trades" : 304,
+         "fg_class" : "Greed",
+         "daily_vol" : 1073865.73,
+         "fg_value" : 65
+      },
+      {
+         "daily_trades" : 306,
+         "daily_pnl" : 5445.01,
+         "date" : "2024-12-31",
+         "daily_buy_pct" : 46.08,
+         "daily_vol" : 877164.62,
+         "fg_value" : 64,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 96,
+         "daily_pnl" : -9528.07,
+         "daily_buy_pct" : 70.83,
+         "date" : "2025-01-01",
+         "daily_vol" : 282582.1,
+         "fg_value" : 66,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 774674.84,
+         "fg_value" : 70,
+         "daily_buy_pct" : 29.64,
+         "date" : "2025-01-02",
+         "daily_trades" : 361,
+         "daily_pnl" : 8716.52
+      },
+      {
+         "date" : "2025-01-03",
+         "daily_buy_pct" : 33.27,
+         "daily_pnl" : 6028.49,
+         "daily_trades" : 508,
+         "fg_class" : "Greed",
+         "daily_vol" : 771208.99,
+         "fg_value" : 74
+      },
+      {
+         "daily_vol" : 1826029.62,
+         "fg_value" : 73,
+         "fg_class" : "Greed",
+         "daily_pnl" : 2553.54,
+         "daily_trades" : 371,
+         "daily_buy_pct" : 20.49,
+         "date" : "2025-01-04"
+      },
+      {
+         "date" : "2025-01-05",
+         "daily_buy_pct" : 27.2,
+         "daily_pnl" : 3187.72,
+         "daily_trades" : 239,
+         "fg_class" : "Greed",
+         "daily_vol" : 451943.57,
+         "fg_value" : 72
+      },
+      {
+         "daily_trades" : 573,
+         "daily_pnl" : 6064.19,
+         "date" : "2025-01-06",
+         "daily_buy_pct" : 25.83,
+         "fg_value" : 76,
+         "daily_vol" : 556526.99,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_buy_pct" : 88.23,
+         "date" : "2025-01-07",
+         "daily_pnl" : 16098.23,
+         "daily_trades" : 637,
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 78,
+         "daily_vol" : 1313178.1
+      },
+      {
+         "daily_vol" : 3177275.18,
+         "fg_value" : 70,
+         "fg_class" : "Greed",
+         "daily_trades" : 1039,
+         "daily_pnl" : 130117.09,
+         "daily_buy_pct" : 71.7,
+         "date" : "2025-01-08"
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 69,
+         "daily_vol" : 1020733.25,
+         "date" : "2025-01-09",
+         "daily_buy_pct" : 38.51,
+         "daily_trades" : 522,
+         "daily_pnl" : 46975.93
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 50,
+         "daily_vol" : 6547449.68,
+         "date" : "2025-01-10",
+         "daily_buy_pct" : 44.69,
+         "daily_pnl" : -10116.88,
+         "daily_trades" : 819
+      },
+      {
+         "daily_trades" : 283,
+         "daily_pnl" : 2269.08,
+         "daily_buy_pct" : 58.66,
+         "date" : "2025-01-11",
+         "daily_vol" : 1658098.71,
+         "fg_value" : 69,
+         "fg_class" : "Greed"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 2258459.17,
+         "fg_value" : 62,
+         "daily_buy_pct" : 13.46,
+         "date" : "2025-01-12",
+         "daily_trades" : 602,
+         "daily_pnl" : 5742.24
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 61,
+         "daily_vol" : 2936648.01,
+         "daily_buy_pct" : 58.82,
+         "date" : "2025-01-13",
+         "daily_trades" : 408,
+         "daily_pnl" : 9655.43
+      },
+      {
+         "daily_vol" : 876581.97,
+         "fg_value" : 63,
+         "fg_class" : "Greed",
+         "daily_pnl" : 16069.51,
+         "daily_trades" : 275,
+         "daily_buy_pct" : 33.45,
+         "date" : "2025-01-14"
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 1801599.89,
+         "fg_value" : 70,
+         "date" : "2025-01-15",
+         "daily_buy_pct" : 34.83,
+         "daily_trades" : 267,
+         "daily_pnl" : 14819.59
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 3049692.96,
+         "fg_value" : 75,
+         "date" : "2025-01-16",
+         "daily_buy_pct" : 30.73,
+         "daily_trades" : 371,
+         "daily_pnl" : 20807.71
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 1110230.46,
+         "daily_buy_pct" : 39.92,
+         "date" : "2025-01-17",
+         "daily_pnl" : 7006.42,
+         "daily_trades" : 238
+      },
+      {
+         "daily_pnl" : 443.23,
+         "daily_trades" : 651,
+         "date" : "2025-01-18",
+         "daily_buy_pct" : 54.22,
+         "daily_vol" : 2711629.88,
+         "fg_value" : 77,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 9715215.3,
+         "fg_value" : 77,
+         "date" : "2025-01-19",
+         "daily_buy_pct" : 53.67,
+         "daily_trades" : 1567,
+         "daily_pnl" : 87923.8
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 76,
+         "daily_vol" : 8287327.01,
+         "daily_buy_pct" : 57.41,
+         "date" : "2025-01-20",
+         "daily_pnl" : 87277.24,
+         "daily_trades" : 1315
+      },
+      {
+         "daily_trades" : 530,
+         "daily_pnl" : 11077.84,
+         "daily_buy_pct" : 27.36,
+         "date" : "2025-01-21",
+         "fg_value" : 76,
+         "daily_vol" : 1523729.82,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "daily_trades" : 832,
+         "daily_pnl" : 20524.41,
+         "daily_buy_pct" : 35.7,
+         "date" : "2025-01-22",
+         "fg_value" : 84,
+         "daily_vol" : 1778406.43,
+         "fg_class" : "Extreme Greed"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "fg_value" : 75,
+         "daily_vol" : 3697028.66,
+         "date" : "2025-01-23",
+         "daily_buy_pct" : 46.06,
+         "daily_trades" : 1218,
+         "daily_pnl" : 101256.24
+      },
+      {
+         "daily_vol" : 1611433.45,
+         "fg_value" : 75,
+         "fg_class" : "Extreme Greed",
+         "daily_trades" : 874,
+         "daily_pnl" : 10602.78,
+         "daily_buy_pct" : 40.96,
+         "date" : "2025-01-24"
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 1239377.7,
+         "fg_value" : 75,
+         "daily_buy_pct" : 62.25,
+         "date" : "2025-01-25",
+         "daily_trades" : 506,
+         "daily_pnl" : -10348.02
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 1201173.66,
+         "fg_value" : 73,
+         "daily_buy_pct" : 39.02,
+         "date" : "2025-01-26",
+         "daily_trades" : 451,
+         "daily_pnl" : 40823.47
+      },
+      {
+         "daily_vol" : 1508028.31,
+         "fg_value" : 71,
+         "fg_class" : "Greed",
+         "daily_trades" : 773,
+         "daily_pnl" : 41331.77,
+         "daily_buy_pct" : 65.98,
+         "date" : "2025-01-27"
+      },
+      {
+         "date" : "2025-01-28",
+         "daily_buy_pct" : 31.53,
+         "daily_trades" : 498,
+         "daily_pnl" : 17979.61,
+         "fg_class" : "Greed",
+         "daily_vol" : 579412.17,
+         "fg_value" : 72
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 1897513.41,
+         "fg_value" : 72,
+         "daily_buy_pct" : 48.13,
+         "date" : "2025-01-29",
+         "daily_trades" : 910,
+         "daily_pnl" : 23421.01
+      },
+      {
+         "fg_value" : 70,
+         "daily_vol" : 3014397.17,
+         "fg_class" : "Greed",
+         "daily_pnl" : 23097.47,
+         "daily_trades" : 1067,
+         "date" : "2025-01-30",
+         "daily_buy_pct" : 25.02
+      },
+      {
+         "fg_class" : "Extreme Greed",
+         "daily_vol" : 2783411.48,
+         "fg_value" : 76,
+         "daily_buy_pct" : 31.79,
+         "date" : "2025-01-31",
+         "daily_trades" : 1016,
+         "daily_pnl" : 35868.3
+      },
+      {
+         "date" : "2025-02-01",
+         "daily_buy_pct" : 55.52,
+         "daily_trades" : 634,
+         "daily_pnl" : 32300.21,
+         "fg_class" : "Greed",
+         "fg_value" : 68,
+         "daily_vol" : 1363746.44
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 5661092.29,
+         "fg_value" : 60,
+         "date" : "2025-02-02",
+         "daily_buy_pct" : 63.15,
+         "daily_trades" : 1319,
+         "daily_pnl" : 162854.76
+      },
+      {
+         "fg_value" : 44,
+         "daily_vol" : 22592901.37,
+         "fg_class" : "Fear",
+         "daily_pnl" : 348871.33,
+         "daily_trades" : 2380,
+         "date" : "2025-02-03",
+         "daily_buy_pct" : 45.84
+      },
+      {
+         "daily_trades" : 2512,
+         "daily_pnl" : 416876.89,
+         "daily_buy_pct" : 45.5,
+         "date" : "2025-02-04",
+         "daily_vol" : 15678409.27,
+         "fg_value" : 72,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_vol" : 8743231.51,
+         "fg_value" : 54,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 56706.24,
+         "daily_trades" : 1297,
+         "daily_buy_pct" : 53.12,
+         "date" : "2025-02-05"
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 2818508.87,
+         "fg_value" : 49,
+         "date" : "2025-02-06",
+         "daily_buy_pct" : 68.29,
+         "daily_pnl" : 33803.8,
+         "daily_trades" : 1703
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 44,
+         "daily_vol" : 3460263.54,
+         "daily_buy_pct" : 62.8,
+         "date" : "2025-02-07",
+         "daily_pnl" : 22450,
+         "daily_trades" : 1524
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 44,
+         "daily_vol" : 839734.97,
+         "daily_buy_pct" : 78.43,
+         "date" : "2025-02-08",
+         "daily_trades" : 575,
+         "daily_pnl" : 586.7
+      },
+      {
+         "daily_trades" : 764,
+         "daily_pnl" : 150551.83,
+         "daily_buy_pct" : 56.02,
+         "date" : "2025-02-09",
+         "fg_value" : 46,
+         "daily_vol" : 2920919.7,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_buy_pct" : 40.49,
+         "date" : "2025-02-10",
+         "daily_trades" : 889,
+         "daily_pnl" : 63908.49,
+         "fg_class" : "Fear",
+         "daily_vol" : 3624958.44,
+         "fg_value" : 43
+      },
+      {
+         "fg_value" : 47,
+         "daily_vol" : 2797544.17,
+         "fg_class" : "Neutral",
+         "daily_pnl" : -6093.78,
+         "daily_trades" : 848,
+         "date" : "2025-02-11",
+         "daily_buy_pct" : 42.69
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 46,
+         "daily_vol" : 4143974.54,
+         "date" : "2025-02-12",
+         "daily_buy_pct" : 39.38,
+         "daily_trades" : 1031,
+         "daily_pnl" : 19848.64
+      },
+      {
+         "fg_value" : 50,
+         "daily_vol" : 3199852.21,
+         "fg_class" : "Neutral",
+         "daily_trades" : 1370,
+         "daily_pnl" : 27829.53,
+         "daily_buy_pct" : 43.28,
+         "date" : "2025-02-13"
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 4007103.42,
+         "fg_value" : 48,
+         "date" : "2025-02-14",
+         "daily_buy_pct" : 32.15,
+         "daily_trades" : 1655,
+         "daily_pnl" : 213860.68
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 1712852.95,
+         "fg_value" : 50,
+         "daily_buy_pct" : 61.48,
+         "date" : "2025-02-15",
+         "daily_pnl" : 45042.93,
+         "daily_trades" : 932
+      },
+      {
+         "daily_buy_pct" : 50.66,
+         "date" : "2025-02-16",
+         "daily_pnl" : 2369.48,
+         "daily_trades" : 681,
+         "fg_class" : "Neutral",
+         "fg_value" : 54,
+         "daily_vol" : 806177.64
+      },
+      {
+         "daily_vol" : 2031044.64,
+         "fg_value" : 51,
+         "fg_class" : "Neutral",
+         "daily_trades" : 941,
+         "daily_pnl" : 1818.57,
+         "date" : "2025-02-17",
+         "daily_buy_pct" : 66.21
+      },
+      {
+         "daily_trades" : 1676,
+         "daily_pnl" : 91204.67,
+         "date" : "2025-02-18",
+         "daily_buy_pct" : 62.71,
+         "daily_vol" : 3371128.68,
+         "fg_value" : 47,
+         "fg_class" : "Neutral"
+      },
+      {
+         "daily_pnl" : 14985.79,
+         "daily_trades" : 1361,
+         "date" : "2025-02-19",
+         "daily_buy_pct" : 63.48,
+         "daily_vol" : 3263930.24,
+         "fg_value" : 44,
+         "fg_class" : "Fear"
+      },
+      {
+         "date" : "2025-02-20",
+         "daily_buy_pct" : 39.17,
+         "daily_trades" : 2012,
+         "daily_pnl" : 46008.79,
+         "fg_class" : "Neutral",
+         "daily_vol" : 4628609.29,
+         "fg_value" : 49
+      },
+      {
+         "fg_value" : 55,
+         "daily_vol" : 3972159.88,
+         "fg_class" : "Greed",
+         "daily_trades" : 1873,
+         "daily_pnl" : 119693.49,
+         "daily_buy_pct" : 39.72,
+         "date" : "2025-02-21"
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 49,
+         "daily_vol" : 3175570.2,
+         "date" : "2025-02-22",
+         "daily_buy_pct" : 52.48,
+         "daily_pnl" : 25278.7,
+         "daily_trades" : 686
+      },
+      {
+         "fg_class" : "Neutral",
+         "daily_vol" : 1141310.74,
+         "fg_value" : 50,
+         "date" : "2025-02-23",
+         "daily_buy_pct" : 54.42,
+         "daily_pnl" : 10656.93,
+         "daily_trades" : 520
+      },
+      {
+         "daily_trades" : 5616,
+         "daily_pnl" : 38470.18,
+         "daily_buy_pct" : 57.96,
+         "date" : "2025-02-24",
+         "fg_value" : 49,
+         "daily_vol" : 11223619.59,
+         "fg_class" : "Neutral"
+      },
+      {
+         "fg_value" : 25,
+         "daily_vol" : 19414984.36,
+         "fg_class" : "Fear",
+         "daily_pnl" : 204762.18,
+         "daily_trades" : 6246,
+         "daily_buy_pct" : 67.82,
+         "date" : "2025-02-25"
+      },
+      {
+         "fg_class" : "Extreme Fear",
+         "daily_vol" : 4946958.13,
+         "fg_value" : 21,
+         "daily_buy_pct" : 32.91,
+         "date" : "2025-02-26",
+         "daily_pnl" : 63229.06,
+         "daily_trades" : 1176
+      },
+      {
+         "date" : "2025-02-27",
+         "daily_buy_pct" : 45.62,
+         "daily_trades" : 890,
+         "daily_pnl" : -36525.17,
+         "fg_class" : "Extreme Fear",
+         "fg_value" : 10,
+         "daily_vol" : 1999898.43
+      },
+      {
+         "daily_buy_pct" : 52.01,
+         "date" : "2025-02-28",
+         "daily_pnl" : 225628.11,
+         "daily_trades" : 1019,
+         "fg_class" : "Extreme Fear",
+         "daily_vol" : 4123660.77,
+         "fg_value" : 16
+      },
+      {
+         "daily_buy_pct" : 60.34,
+         "date" : "2025-03-01",
+         "daily_trades" : 174,
+         "daily_pnl" : 10596.11,
+         "fg_class" : "Extreme Fear",
+         "fg_value" : 20,
+         "daily_vol" : 263824.13
+      },
+      {
+         "daily_trades" : 532,
+         "daily_pnl" : 66914.32,
+         "date" : "2025-03-02",
+         "daily_buy_pct" : 51.5,
+         "daily_vol" : 6460848.74,
+         "fg_value" : 26,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 33,
+         "daily_vol" : 8244590.38,
+         "daily_buy_pct" : 72.13,
+         "date" : "2025-03-03",
+         "daily_pnl" : 616413.03,
+         "daily_trades" : 1482
+      },
+      {
+         "fg_class" : "Extreme Fear",
+         "fg_value" : 15,
+         "daily_vol" : 11124247.15,
+         "daily_buy_pct" : 72.77,
+         "date" : "2025-03-04",
+         "daily_trades" : 2402,
+         "daily_pnl" : 182075.57
+      },
+      {
+         "daily_buy_pct" : 22.59,
+         "date" : "2025-03-05",
+         "daily_pnl" : 269328.37,
+         "daily_trades" : 1660,
+         "fg_class" : "Extreme Fear",
+         "fg_value" : 20,
+         "daily_vol" : 9193654.22
+      },
+      {
+         "daily_pnl" : 16101.13,
+         "daily_trades" : 760,
+         "date" : "2025-03-06",
+         "daily_buy_pct" : 48.82,
+         "daily_vol" : 6765324.96,
+         "fg_value" : 25,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 34,
+         "daily_vol" : 19854275.48,
+         "daily_buy_pct" : 48.08,
+         "date" : "2025-03-07",
+         "daily_pnl" : 150236.06,
+         "daily_trades" : 2552
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 892083.51,
+         "fg_value" : 28,
+         "date" : "2025-03-08",
+         "daily_buy_pct" : 54.44,
+         "daily_pnl" : 24700.77,
+         "daily_trades" : 529
+      },
+      {
+         "daily_trades" : 1422,
+         "daily_pnl" : 19773.46,
+         "daily_buy_pct" : 66.6,
+         "date" : "2025-03-09",
+         "fg_value" : 27,
+         "daily_vol" : 10419697.99,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_pnl" : -10010.03,
+         "daily_trades" : 2911,
+         "date" : "2025-03-10",
+         "daily_buy_pct" : 53.93,
+         "daily_vol" : 16811790.68,
+         "fg_value" : 20,
+         "fg_class" : "Extreme Fear"
+      },
+      {
+         "fg_class" : "Extreme Fear",
+         "fg_value" : 24,
+         "daily_vol" : 14016952.09,
+         "date" : "2025-03-11",
+         "daily_buy_pct" : 64.52,
+         "daily_pnl" : -76880.73,
+         "daily_trades" : 3286
+      },
+      {
+         "daily_trades" : 3968,
+         "daily_pnl" : 288105.98,
+         "daily_buy_pct" : 41.51,
+         "date" : "2025-03-12",
+         "daily_vol" : 18618139.15,
+         "fg_value" : 34,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_value" : 45,
+         "daily_vol" : 3285591.22,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 14114.87,
+         "daily_trades" : 962,
+         "daily_buy_pct" : 48.65,
+         "date" : "2025-03-13"
+      },
+      {
+         "date" : "2025-03-14",
+         "daily_buy_pct" : 13.44,
+         "daily_pnl" : 68646.16,
+         "daily_trades" : 2210,
+         "fg_class" : "Fear",
+         "fg_value" : 27,
+         "daily_vol" : 8047187.16
+      },
+      {
+         "daily_buy_pct" : 59,
+         "date" : "2025-03-15",
+         "daily_pnl" : 78694.62,
+         "daily_trades" : 261,
+         "fg_class" : "Neutral",
+         "fg_value" : 46,
+         "daily_vol" : 2355749.54
+      },
+      {
+         "date" : "2025-03-16",
+         "daily_buy_pct" : 57.36,
+         "daily_pnl" : -7910.94,
+         "daily_trades" : 530,
+         "fg_class" : "Fear",
+         "daily_vol" : 10187921.51,
+         "fg_value" : 30
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 3592895.05,
+         "fg_value" : 32,
+         "date" : "2025-03-17",
+         "daily_buy_pct" : 52.5,
+         "daily_pnl" : 26163.91,
+         "daily_trades" : 920
+      },
+      {
+         "daily_trades" : 834,
+         "daily_pnl" : 72322.79,
+         "daily_buy_pct" : 40.89,
+         "date" : "2025-03-18",
+         "daily_vol" : 4050655.47,
+         "fg_value" : 34,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_trades" : 1612,
+         "daily_pnl" : 29374.68,
+         "date" : "2025-03-19",
+         "daily_buy_pct" : 34.93,
+         "daily_vol" : 4598813.57,
+         "fg_value" : 32,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_buy_pct" : 30.87,
+         "date" : "2025-03-20",
+         "daily_trades" : 771,
+         "daily_pnl" : 10246.86,
+         "fg_class" : "Neutral",
+         "daily_vol" : 1652257.93,
+         "fg_value" : 49
+      },
+      {
+         "fg_value" : 31,
+         "daily_vol" : 2543903.39,
+         "fg_class" : "Fear",
+         "daily_trades" : 698,
+         "daily_pnl" : 6951.27,
+         "date" : "2025-03-21",
+         "daily_buy_pct" : 49.57
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 32,
+         "daily_vol" : 971809.42,
+         "date" : "2025-03-22",
+         "daily_buy_pct" : 41.5,
+         "daily_trades" : 535,
+         "daily_pnl" : 12498.54
+      },
+      {
+         "daily_trades" : 447,
+         "daily_pnl" : 14047.42,
+         "daily_buy_pct" : 64.88,
+         "date" : "2025-03-23",
+         "daily_vol" : 2593519.67,
+         "fg_value" : 30,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 45,
+         "daily_vol" : 3017587.05,
+         "date" : "2025-03-24",
+         "daily_buy_pct" : 20.74,
+         "daily_trades" : 1027,
+         "daily_pnl" : 107878.96
+      },
+      {
+         "daily_buy_pct" : 53.35,
+         "date" : "2025-03-25",
+         "daily_pnl" : 32030.91,
+         "daily_trades" : 791,
+         "fg_class" : "Neutral",
+         "fg_value" : 46,
+         "daily_vol" : 5372519.77
+      },
+      {
+         "fg_value" : 47,
+         "daily_vol" : 7597754.37,
+         "fg_class" : "Neutral",
+         "daily_trades" : 3102,
+         "daily_pnl" : 15802.17,
+         "date" : "2025-03-26",
+         "daily_buy_pct" : 50.74
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 3240279.46,
+         "fg_value" : 40,
+         "daily_buy_pct" : 60.38,
+         "date" : "2025-03-27",
+         "daily_trades" : 785,
+         "daily_pnl" : 58825.36
+      },
+      {
+         "daily_trades" : 728,
+         "daily_pnl" : 21337.18,
+         "daily_buy_pct" : 73.21,
+         "date" : "2025-03-28",
+         "daily_vol" : 1483092.61,
+         "fg_value" : 44,
+         "fg_class" : "Fear"
+      },
+      {
+         "date" : "2025-03-29",
+         "daily_buy_pct" : 52.64,
+         "daily_pnl" : 12098.87,
+         "daily_trades" : 1894,
+         "fg_class" : "Fear",
+         "daily_vol" : 3668151.83,
+         "fg_value" : 26
+      },
+      {
+         "daily_pnl" : 15795.12,
+         "daily_trades" : 568,
+         "daily_buy_pct" : 84.15,
+         "date" : "2025-03-30",
+         "daily_vol" : 2850874.96,
+         "fg_value" : 32,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_pnl" : 6978.18,
+         "daily_trades" : 495,
+         "daily_buy_pct" : 43.23,
+         "date" : "2025-03-31",
+         "fg_value" : 34,
+         "daily_vol" : 2164772.47,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_trades" : 192,
+         "daily_pnl" : -2202.66,
+         "date" : "2025-04-01",
+         "daily_buy_pct" : 47.92,
+         "fg_value" : 34,
+         "daily_vol" : 704445.19,
+         "fg_class" : "Fear"
+      },
+      {
+         "daily_buy_pct" : 11.9,
+         "date" : "2025-04-02",
+         "daily_pnl" : 202212.74,
+         "daily_trades" : 1076,
+         "fg_class" : "Fear",
+         "daily_vol" : 3867930.6,
+         "fg_value" : 44
+      },
+      {
+         "daily_trades" : 1748,
+         "daily_pnl" : -2365.96,
+         "daily_buy_pct" : 54.69,
+         "date" : "2025-04-03",
+         "daily_vol" : 8670233.15,
+         "fg_value" : 25,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 28,
+         "daily_vol" : 3835545.73,
+         "date" : "2025-04-04",
+         "daily_buy_pct" : 39.23,
+         "daily_pnl" : -25515.68,
+         "daily_trades" : 1272
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 30,
+         "daily_vol" : 1267564.22,
+         "date" : "2025-04-05",
+         "daily_buy_pct" : 38.33,
+         "daily_pnl" : 35907.34,
+         "daily_trades" : 360
+      },
+      {
+         "daily_pnl" : 47053.45,
+         "daily_trades" : 1048,
+         "daily_buy_pct" : 64.69,
+         "date" : "2025-04-06",
+         "daily_vol" : 3551252.06,
+         "fg_value" : 34,
+         "fg_class" : "Fear"
+      },
+      {
+         "fg_value" : 23,
+         "daily_vol" : 14460253.14,
+         "fg_class" : "Extreme Fear",
+         "daily_trades" : 2814,
+         "daily_pnl" : 34527.37,
+         "daily_buy_pct" : 50.28,
+         "date" : "2025-04-07"
+      },
+      {
+         "fg_value" : 24,
+         "daily_vol" : 8869391.4,
+         "fg_class" : "Extreme Fear",
+         "daily_pnl" : 34899.39,
+         "daily_trades" : 943,
+         "date" : "2025-04-08",
+         "daily_buy_pct" : 45.6
+      },
+      {
+         "daily_trades" : 3967,
+         "daily_pnl" : 43120.44,
+         "daily_buy_pct" : 44.47,
+         "date" : "2025-04-09",
+         "fg_value" : 18,
+         "daily_vol" : 28556806.47,
+         "fg_class" : "Extreme Fear"
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 28741953.29,
+         "fg_value" : 39,
+         "date" : "2025-04-10",
+         "daily_buy_pct" : 53.46,
+         "daily_trades" : 2127,
+         "daily_pnl" : 158261.82
+      },
+      {
+         "date" : "2025-04-11",
+         "daily_buy_pct" : 28.47,
+         "daily_pnl" : 126406.48,
+         "daily_trades" : 1096,
+         "fg_class" : "Fear",
+         "daily_vol" : 11319327.07,
+         "fg_value" : 25
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 55914617.49,
+         "fg_value" : 43,
+         "daily_buy_pct" : 37.93,
+         "date" : "2025-04-12",
+         "daily_trades" : 2109,
+         "daily_pnl" : 410419.69
+      },
+      {
+         "date" : "2025-04-13",
+         "daily_buy_pct" : 55.94,
+         "daily_pnl" : 48696.02,
+         "daily_trades" : 1321,
+         "fg_class" : "Neutral",
+         "daily_vol" : 14171154.79,
+         "fg_value" : 45
+      },
+      {
+         "fg_value" : 31,
+         "daily_vol" : 13079972.98,
+         "fg_class" : "Fear",
+         "daily_pnl" : 45680.44,
+         "daily_trades" : 890,
+         "date" : "2025-04-14",
+         "daily_buy_pct" : 58.09
+      },
+      {
+         "daily_buy_pct" : 30.42,
+         "date" : "2025-04-15",
+         "daily_pnl" : 72357.71,
+         "daily_trades" : 1131,
+         "fg_class" : "Fear",
+         "fg_value" : 38,
+         "daily_vol" : 20752168.24
+      },
+      {
+         "date" : "2025-04-16",
+         "daily_buy_pct" : 51.93,
+         "daily_trades" : 1608,
+         "daily_pnl" : 58631.73,
+         "fg_class" : "Fear",
+         "daily_vol" : 36502715.9,
+         "fg_value" : 29
+      },
+      {
+         "date" : "2025-04-17",
+         "daily_buy_pct" : 33.07,
+         "daily_pnl" : 5427.92,
+         "daily_trades" : 1031,
+         "fg_class" : "Fear",
+         "daily_vol" : 2604551.51,
+         "fg_value" : 30
+      },
+      {
+         "fg_class" : "Fear",
+         "fg_value" : 33,
+         "daily_vol" : 24610650.46,
+         "date" : "2025-04-18",
+         "daily_buy_pct" : 39.86,
+         "daily_trades" : 1894,
+         "daily_pnl" : 4880.4
+      },
+      {
+         "fg_class" : "Fear",
+         "daily_vol" : 32706462.71,
+         "fg_value" : 32,
+         "daily_buy_pct" : 35.86,
+         "date" : "2025-04-19",
+         "daily_trades" : 2786,
+         "daily_pnl" : 71950.58
+      },
+      {
+         "daily_buy_pct" : 54.44,
+         "date" : "2025-04-20",
+         "daily_trades" : 1982,
+         "daily_pnl" : 25060.34,
+         "fg_class" : "Fear",
+         "daily_vol" : 12126094.05,
+         "fg_value" : 37
+      },
+      {
+         "daily_buy_pct" : 35.16,
+         "date" : "2025-04-21",
+         "daily_pnl" : 34369.27,
+         "daily_trades" : 1718,
+         "fg_class" : "Fear",
+         "fg_value" : 39,
+         "daily_vol" : 42104054.84
+      },
+      {
+         "fg_value" : 47,
+         "daily_vol" : 33753625.24,
+         "fg_class" : "Neutral",
+         "daily_pnl" : 58652.76,
+         "daily_trades" : 2998,
+         "daily_buy_pct" : 47.36,
+         "date" : "2025-04-22"
+      },
+      {
+         "daily_trades" : 6159,
+         "daily_pnl" : -419020.23,
+         "date" : "2025-04-23",
+         "daily_buy_pct" : 68.49,
+         "daily_vol" : 30682443.79,
+         "fg_value" : 72,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2025-04-24",
+         "daily_buy_pct" : 54.79,
+         "daily_trades" : 2232,
+         "daily_pnl" : 50704.4,
+         "fg_class" : "Greed",
+         "daily_vol" : 35088918.64,
+         "fg_value" : 63
+      },
+      {
+         "daily_trades" : 1653,
+         "daily_pnl" : 20218.86,
+         "date" : "2025-04-25",
+         "daily_buy_pct" : 41.2,
+         "fg_value" : 60,
+         "daily_vol" : 27749455.78,
+         "fg_class" : "Greed"
+      },
+      {
+         "daily_trades" : 1131,
+         "daily_pnl" : -4125.75,
+         "date" : "2025-04-26",
+         "daily_buy_pct" : 53.4,
+         "daily_vol" : 11948127.77,
+         "fg_value" : 65,
+         "fg_class" : "Greed"
+      },
+      {
+         "date" : "2025-04-27",
+         "daily_buy_pct" : 62.02,
+         "daily_trades" : 337,
+         "daily_pnl" : 2702.07,
+         "fg_class" : "Greed",
+         "daily_vol" : 487537.69,
+         "fg_value" : 61
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 54,
+         "daily_vol" : 26124921.49,
+         "daily_buy_pct" : 47.28,
+         "date" : "2025-04-28",
+         "daily_pnl" : 36906.81,
+         "daily_trades" : 1379
+      },
+      {
+         "fg_class" : "Greed",
+         "daily_vol" : 34089511.66,
+         "fg_value" : 60,
+         "date" : "2025-04-29",
+         "daily_buy_pct" : 49.26,
+         "daily_trades" : 2243,
+         "daily_pnl" : 125749.61
+      },
+      {
+         "fg_class" : "Greed",
+         "fg_value" : 56,
+         "daily_vol" : 12693878.85,
+         "daily_buy_pct" : 75.29,
+         "date" : "2025-04-30",
+         "daily_pnl" : 14003.8,
+         "daily_trades" : 1113
+      },
+      {
+         "fg_class" : "Neutral",
+         "fg_value" : 53,
+         "daily_vol" : 10720240.52,
+         "daily_buy_pct" : 55.77,
+         "date" : "2025-05-01",
+         "daily_pnl" : 54536.83,
+         "daily_trades" : 1230
+      }
+   ],
+   "top_coins" : [
+      {
+         "total_vol" : 644232116.63,
+         "win_rate" : 83.06,
+         "total_pnl" : 868044.73,
+         "total_trades" : 26064,
+         "coin" : "BTC"
+      },
+      {
+         "total_trades" : 68005,
+         "total_pnl" : 1948484.6,
+         "win_rate" : 88.16,
+         "total_vol" : 141990206.05,
+         "coin" : "HYPE"
+      },
+      {
+         "coin" : "SOL",
+         "total_trades" : 10691,
+         "total_pnl" : 1639555.93,
+         "win_rate" : 83.88,
+         "total_vol" : 125074752.06
+      },
+      {
+         "total_pnl" : 1319978.84,
+         "total_trades" : 11158,
+         "total_vol" : 118280994.07,
+         "win_rate" : 76.82,
+         "coin" : "ETH"
+      },
+      {
+         "coin" : "@107",
+         "win_rate" : 81.7,
+         "total_vol" : 55760858.63,
+         "total_trades" : 29992,
+         "total_pnl" : 2783912.92
+      },
+      {
+         "coin" : "FARTCOIN",
+         "total_trades" : 4650,
+         "total_pnl" : -100687.21,
+         "total_vol" : 8311390.4,
+         "win_rate" : 70.56
+      },
+      {
+         "total_vol" : 7781167.59,
+         "win_rate" : 93.95,
+         "total_trades" : 1979,
+         "total_pnl" : 199268.83,
+         "coin" : "SUI"
+      },
+      {
+         "total_vol" : 7349346.94,
+         "win_rate" : 69.97,
+         "total_pnl" : -364824.91,
+         "total_trades" : 1920,
+         "coin" : "TRUMP"
+      },
+      {
+         "coin" : "MELANIA",
+         "total_vol" : 7040710.45,
+         "win_rate" : 88.92,
+         "total_trades" : 4428,
+         "total_pnl" : 390351.07
+      },
+      {
+         "total_vol" : 5343210.53,
+         "win_rate" : 65.45,
+         "total_pnl" : 3756.9,
+         "total_trades" : 1774,
+         "coin" : "XRP"
+      },
+      {
+         "coin" : "PAXG",
+         "total_pnl" : -18688.87,
+         "total_trades" : 1265,
+         "total_vol" : 3047336.39,
+         "win_rate" : 42.68
+      },
+      {
+         "total_pnl" : 35551.25,
+         "total_trades" : 1647,
+         "win_rate" : 52.79,
+         "total_vol" : 2995780.58,
+         "coin" : "kBONK"
+      },
+      {
+         "win_rate" : 75.64,
+         "total_vol" : 2792841.63,
+         "total_trades" : 1983,
+         "total_pnl" : 22281.92,
+         "coin" : "WLD"
+      },
+      {
+         "win_rate" : 80.71,
+         "total_vol" : 2486351.27,
+         "total_trades" : 1309,
+         "total_pnl" : 7450.36,
+         "coin" : "@142"
+      },
+      {
+         "coin" : "DOGE",
+         "total_trades" : 826,
+         "total_pnl" : 147543.16,
+         "win_rate" : 87.58,
+         "total_vol" : 2452103.46
+      },
+      {
+         "win_rate" : 47.73,
+         "total_vol" : 2450800.07,
+         "total_trades" : 1730,
+         "total_pnl" : 18677,
+         "coin" : "kPEPE"
+      },
+      {
+         "win_rate" : 88.14,
+         "total_vol" : 2193971.31,
+         "total_trades" : 992,
+         "total_pnl" : 35193.72,
+         "coin" : "JELLY"
+      },
+      {
+         "coin" : "BERA",
+         "win_rate" : 89.33,
+         "total_vol" : 2056756,
+         "total_pnl" : 73689.75,
+         "total_trades" : 1054
+      },
+      {
+         "coin" : "ONDO",
+         "total_pnl" : 24570.82,
+         "total_trades" : 1463,
+         "total_vol" : 1726582.09,
+         "win_rate" : 98.47
+      },
+      {
+         "total_trades" : 1082,
+         "total_pnl" : 16817.94,
+         "total_vol" : 1693805.35,
+         "win_rate" : 89.32,
+         "coin" : "TAO"
+      }
+   ],
+   "traders" : [
+      {
+         "account" : "0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23",
+         "total_trades" : 14733,
+         "total_pnl" : 2143382.6,
+         "win_rate" : 79.1,
+         "total_vol" : 56543565.23,
+         "buy_pct" : 45.5
+      },
+      {
+         "buy_pct" : 44.81,
+         "account" : "0x083384f897ee0f19899168e3b1bec365f52a9012",
+         "total_pnl" : 1600229.82,
+         "total_trades" : 3818,
+         "win_rate" : 79.27,
+         "total_vol" : 61697263.97
+      },
+      {
+         "buy_pct" : 52.83,
+         "total_pnl" : 940163.81,
+         "total_trades" : 21192,
+         "account" : "0xbaaaf6571ab7d571043ff1e313a9609a10637864",
+         "total_vol" : 68036340.24,
+         "win_rate" : 99.12
+      },
+      {
+         "total_trades" : 12236,
+         "total_pnl" : 840422.56,
+         "account" : "0x513b8629fe877bb581bf244e326a047b249c4ff1",
+         "total_vol" : 420876556.36,
+         "win_rate" : 89.55,
+         "buy_pct" : 52.04
+      },
+      {
+         "buy_pct" : 43.33,
+         "total_vol" : 74107810.44,
+         "win_rate" : 76.31,
+         "total_trades" : 40184,
+         "total_pnl" : 836080.55,
+         "account" : "0xbee1707d6b44d4d52bfe19e41f8a828645437aab"
+      },
+      {
+         "total_vol" : 39572949.25,
+         "win_rate" : 94.85,
+         "total_trades" : 4356,
+         "total_pnl" : 677747.05,
+         "account" : "0x4acb90e786d897ecffb614dc822eb231b4ffb9f4",
+         "buy_pct" : 48.55
+      },
+      {
+         "total_trades" : 1590,
+         "total_pnl" : 429355.57,
+         "account" : "0x72743ae2822edd658c0c50608fd7c5c501b2afbd",
+         "total_vol" : 11474500.92,
+         "win_rate" : 74.63,
+         "buy_pct" : 37.61
+      },
+      {
+         "win_rate" : 100,
+         "total_vol" : 2966109.22,
+         "account" : "0x430f09841d65beb3f27765503d0f850b8bce7713",
+         "total_trades" : 1237,
+         "total_pnl" : 416541.87,
+         "buy_pct" : 24.41
+      },
+      {
+         "win_rate" : 77.66,
+         "total_vol" : 3051144.33,
+         "account" : "0x72c6a4624e1dffa724e6d00d64ceae698af892a0",
+         "total_trades" : 1430,
+         "total_pnl" : 403011.5,
+         "buy_pct" : 44.69
+      },
+      {
+         "buy_pct" : 49.82,
+         "total_pnl" : 379095.41,
+         "total_trades" : 9893,
+         "account" : "0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4",
+         "total_vol" : 25729497.24,
+         "win_rate" : 92.63
+      },
+      {
+         "buy_pct" : 55.01,
+         "total_pnl" : 308975.87,
+         "total_trades" : 7584,
+         "account" : "0x4f93fead39b70a1824f981a54d4e55b278e9f760",
+         "total_vol" : 129672529.28,
+         "win_rate" : 92.68
+      },
+      {
+         "account" : "0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3",
+         "total_pnl" : 220519.06,
+         "total_trades" : 2641,
+         "win_rate" : 73.49,
+         "total_vol" : 20737391.71,
+         "buy_pct" : 45.17
+      },
+      {
+         "account" : "0x420ab45e0bd8863569a5efbb9c05d91f40624641",
+         "total_pnl" : 199505.59,
+         "total_trades" : 383,
+         "win_rate" : 100,
+         "total_vol" : 1987527.61,
+         "buy_pct" : 26.37
+      },
+      {
+         "total_pnl" : 168658,
+         "total_trades" : 3239,
+         "account" : "0x2c229d22b100a7beb69122eed721cee9b24011dd",
+         "total_vol" : 10166880.2,
+         "win_rate" : 81.75,
+         "buy_pct" : 36.4
+      },
+      {
+         "total_vol" : 6757022.1,
+         "win_rate" : 86.21,
+         "total_pnl" : 132464.81,
+         "total_trades" : 13311,
+         "account" : "0x28736f43f1e871e6aa8b1148d38d4994275d72c4",
+         "buy_pct" : 50.33
+      },
+      {
+         "buy_pct" : 68.94,
+         "total_vol" : 10992355.74,
+         "win_rate" : 97.65,
+         "total_pnl" : 126578.94,
+         "total_trades" : 3052,
+         "account" : "0x92f17e8d81a944691c10e753af1b1baae1a2cd0d"
+      },
+      {
+         "buy_pct" : 37.23,
+         "total_vol" : 728057.51,
+         "win_rate" : 98.83,
+         "total_pnl" : 108731.22,
+         "total_trades" : 975,
+         "account" : "0x6d6a4b953f202f8df5bed40692e7fd865318264a"
+      },
+      {
+         "account" : "0xa0feb3725a9335f49874d7cd8eaad6be45b27416",
+         "total_pnl" : 106302.88,
+         "total_trades" : 15605,
+         "win_rate" : 97.03,
+         "total_vol" : 19868207.98,
+         "buy_pct" : 63.97
+      },
+      {
+         "buy_pct" : 47.85,
+         "account" : "0x47add9a56df66b524d5e2c1993a43cde53b6ed85",
+         "total_trades" : 8519,
+         "total_pnl" : 103343.72,
+         "win_rate" : 82.2,
+         "total_vol" : 4408828.9
+      },
+      {
+         "buy_pct" : 37.41,
+         "total_vol" : 861809.4,
+         "win_rate" : 93.73,
+         "total_trades" : 417,
+         "total_pnl" : 72846.48,
+         "account" : "0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0"
+      },
+      {
+         "account" : "0xae5eacaf9c6b9111fd53034a602c192a04e082ed",
+         "total_pnl" : 67845.62,
+         "total_trades" : 563,
+         "win_rate" : 100,
+         "total_vol" : 1677425.72,
+         "buy_pct" : 58.97
+      },
+      {
+         "buy_pct" : 60.44,
+         "win_rate" : 88.38,
+         "total_vol" : 11999173.37,
+         "account" : "0x8381e6d82f1affd39a336e143e081ef7620a3b7f",
+         "total_trades" : 1911,
+         "total_pnl" : 65513.66
+      },
+      {
+         "win_rate" : 100,
+         "total_vol" : 1143896.46,
+         "account" : "0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6",
+         "total_pnl" : 53496.25,
+         "total_trades" : 332,
+         "buy_pct" : 51.2
+      },
+      {
+         "buy_pct" : 41.96,
+         "win_rate" : 77.36,
+         "total_vol" : 12035487.66,
+         "account" : "0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd",
+         "total_trades" : 7280,
+         "total_pnl" : 47885.32
+      },
+      {
+         "buy_pct" : 46.43,
+         "total_vol" : 12304786.84,
+         "win_rate" : 59.9,
+         "total_trades" : 14998,
+         "total_pnl" : 43917.01,
+         "account" : "0x8477e447846c758f5a675856001ea72298fd9cb5"
+      },
+      {
+         "account" : "0xb899e522b5715391ae1d4f137653e7906c5e2115",
+         "total_pnl" : 22488.5,
+         "total_trades" : 4838,
+         "win_rate" : 80.35,
+         "total_vol" : 108877041.1,
+         "buy_pct" : 48.95
+      },
+      {
+         "buy_pct" : 56.93,
+         "total_trades" : 534,
+         "total_pnl" : 21758.83,
+         "account" : "0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb",
+         "total_vol" : 4448323.26,
+         "win_rate" : 74.78
+      },
+      {
+         "buy_pct" : 44.32,
+         "account" : "0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f",
+         "total_pnl" : 14900.44,
+         "total_trades" : 1559,
+         "win_rate" : 94.5,
+         "total_vol" : 5844484.45
+      },
+      {
+         "total_vol" : 17193375.42,
+         "win_rate" : 66.55,
+         "total_trades" : 3589,
+         "total_pnl" : 14456.92,
+         "account" : "0x39cef799f8b69da1995852eea189df24eb5cae3c",
+         "buy_pct" : 45.92
+      },
+      {
+         "buy_pct" : 22.33,
+         "account" : "0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891",
+         "total_trades" : 815,
+         "total_pnl" : -31203.6,
+         "win_rate" : 65.09,
+         "total_vol" : 1409902
+      },
+      {
+         "buy_pct" : 41.11,
+         "total_vol" : 33873440.42,
+         "win_rate" : 71.56,
+         "total_trades" : 3809,
+         "total_pnl" : -70436.19,
+         "account" : "0x271b280974205ca63b716753467d5a371de622ab"
+      },
+      {
+         "buy_pct" : 49.16,
+         "account" : "0x8170715b3b381dffb7062c0298972d4727a0a63b",
+         "total_pnl" : -167621.12,
+         "total_trades" : 4601,
+         "win_rate" : 75.22,
+         "total_vol" : 10143758.13
+      }
+   ],
+   "summary" : {
+      "total_pnl" : 10296958.94,
+      "overall_win_rate" : 83.2,
+      "total_volume" : 1191187442.46,
+      "total_trades" : 211224,
+      "unique_traders" : 32,
+      "unique_coins" : 246
+   },
+   "regimes" : [
+      {
+         "win_rate_pct" : 76.22,
+         "avg_pnl" : 34.54,
+         "profit_factor" : 2.16,
+         "trades" : 21400,
+         "buy_side_pct" : 51.1,
+         "volume_usd" : 114484261.44,
+         "avg_daily_vol" : 8177447.25,
+         "avg_daily_pnl" : 52793.59,
+         "pnl_usd" : 739110.25,
+         "active_days" : 14,
+         "regime" : "Extreme Fear"
+      },
+      {
+         "win_rate_pct" : 89.17,
+         "avg_pnl" : 67.89,
+         "profit_factor" : 11.02,
+         "trades" : 39992,
+         "buy_side_pct" : 44.86,
+         "volume_usd" : 124465164.57,
+         "avg_daily_vol" : 1091799.69,
+         "avg_daily_pnl" : 23817.29,
+         "pnl_usd" : 2715171.31,
+         "active_days" : 114,
+         "regime" : "Extreme Greed"
+      },
+      {
+         "buy_side_pct" : 48.95,
+         "trades" : 61837,
+         "profit_factor" : 6.66,
+         "avg_pnl" : 54.29,
+         "win_rate_pct" : 87.29,
+         "active_days" : 91,
+         "pnl_usd" : 3357155.44,
+         "regime" : "Fear",
+         "avg_daily_pnl" : 36891.82,
+         "volume_usd" : 483324789.79,
+         "avg_daily_vol" : 5311261.43
+      },
+      {
+         "avg_daily_pnl" : 11140.57,
+         "avg_daily_vol" : 1495246.09,
+         "volume_usd" : 288582494.72,
+         "regime" : "Greed",
+         "active_days" : 193,
+         "pnl_usd" : 2150129.27,
+         "avg_pnl" : 42.74,
+         "win_rate_pct" : 76.89,
+         "buy_side_pct" : 48.86,
+         "trades" : 50303,
+         "profit_factor" : 3.03
+      },
+      {
+         "avg_daily_pnl" : 19297.32,
+         "volume_usd" : 180242063.08,
+         "avg_daily_vol" : 2690180.05,
+         "active_days" : 67,
+         "regime" : "Neutral",
+         "pnl_usd" : 1292920.68,
+         "avg_pnl" : 34.31,
+         "win_rate_pct" : 82.39,
+         "buy_side_pct" : 50.33,
+         "trades" : 37686,
+         "profit_factor" : 4.32
+      }
+   ]
+}
